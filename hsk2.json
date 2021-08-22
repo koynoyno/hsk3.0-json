@@ -1,0 +1,5358 @@
+{
+  "metadata": {
+    "identifier": "HSK2",
+    "learned-percentage": 0,
+    "count": 764,
+    "source-note": "vocabulary taken from https://github.com/infinyte7/Anki-xiehanzi created by Mani, infinyte01@gmail.com, cleaned and converted to JSON by Vlad Volkov https://ko-fi.com/vlad, 2021"
+  },
+  "words": [
+    {
+      "traditional": "啊",
+      "simplified": "啊",
+      "pinyin": "ā",
+      "english": "particle: used in direct address and exclamation; indicating obviousness/impatience/suggestion; used for confirmation",
+      "pinyinNumbered": "a1"
+    },
+    {
+      "traditional": "愛情",
+      "simplified": "爱情",
+      "pinyin": "àiqíng",
+      "english": "god, warmheartedness, affection, love affair, heart, kindness, tenderness, bosom, love, fondness, romantic love, affectionateness",
+      "pinyinNumbered": "ai4qing2"
+    },
+    {
+      "traditional": "愛人",
+      "simplified": "爱人",
+      "pinyin": "ài ren",
+      "english": "spouse (PRC), lover (non-PRC), CL:個|个[ge4]",
+      "pinyinNumbered": "ai4 ren5"
+    },
+    {
+      "traditional": "安靜",
+      "simplified": "安静",
+      "pinyin": "ānjìng",
+      "english": "lull, quieten, quiesce, dummy, quiet down, quiet, hush, pipe down, peaceful",
+      "pinyinNumbered": "an1jing4"
+    },
+    {
+      "traditional": "安全",
+      "simplified": "安全",
+      "pinyin": "ānquán",
+      "english": "safe, secure",
+      "pinyinNumbered": "an1quan2"
+    },
+    {
+      "traditional": "白色",
+      "simplified": "白色",
+      "pinyin": "báisè",
+      "english": "White, white, whiteness, White (as symbol of anticommunism), white (color)",
+      "pinyinNumbered": "bai2se4"
+    },
+    {
+      "traditional": "班長",
+      "simplified": "班长",
+      "pinyin": "bānzhǎng",
+      "english": "monitor, (work) team leader, squad leader, team leader, class monitor",
+      "pinyinNumbered": "ban1zhang3"
+    },
+    {
+      "traditional": "辦",
+      "simplified": "办",
+      "pinyin": "bàn",
+      "english": "punish (by law), manage, get ... ready, set up, buy a fair amount of, set up, run, management, handle, tackle, attend to, do, punish, bring ... to justice",
+      "pinyinNumbered": "ban4"
+    },
+    {
+      "traditional": "辦法",
+      "simplified": "办法",
+      "pinyin": "bànfǎ",
+      "english": "road, expedient, policy, agency, measure, way, method, means",
+      "pinyinNumbered": "ban4fa3"
+    },
+    {
+      "traditional": "辦公室",
+      "simplified": "办公室",
+      "pinyin": "bàngōngshì",
+      "english": "agency, office, authority, government agency, bureau",
+      "pinyinNumbered": "ban4gong1shi4"
+    },
+    {
+      "traditional": "半夜",
+      "simplified": "半夜",
+      "pinyin": "bàn yè",
+      "english": "midnight, in the middle of the night",
+      "pinyinNumbered": "ban4 ye4"
+    },
+    {
+      "traditional": "幫助",
+      "simplified": "帮助",
+      "pinyin": "bāngzhù",
+      "english": "aid, bridge over, help, bestead, bring on, tide over, serve, support, facilitate, accommodate, carry through, assist, administer, attend to, assistance, befriend, further, favour",
+      "pinyinNumbered": "bang1zhu4"
+    },
+    {
+      "traditional": "飽",
+      "simplified": "饱",
+      "pinyin": "bǎo",
+      "english": "to eat till full, satisfied",
+      "pinyinNumbered": "bao3"
+    },
+    {
+      "traditional": "報名",
+      "simplified": "报名",
+      "pinyin": "bàomíng",
+      "english": "register, inscribe, enter, enroll, enrol, enter one's name, sign up, recruit",
+      "pinyinNumbered": "bao4ming2"
+    },
+    {
+      "traditional": "報紙",
+      "simplified": "报纸",
+      "pinyin": "bàozhǐ",
+      "english": "paper, headliner, newspaper publisher, tabloid, copyreader, newspaper, rag, courant, newsprint, sheet, gazette, dailies",
+      "pinyinNumbered": "bao4zhi3"
+    },
+    {
+      "traditional": "北方",
+      "simplified": "北方",
+      "pinyin": "běifāng",
+      "english": "norland, septentrion, compass north, northern part of country, northernness, northern, magnetic north, northward, north, the North, the northern part of the country",
+      "pinyinNumbered": "bei3fang1"
+    },
+    {
+      "traditional": "背",
+      "simplified": "背",
+      "pinyin": "bèi",
+      "english": "learn by heart, recite from memory",
+      "pinyinNumbered": "bei4"
+    },
+    {
+      "traditional": "比如",
+      "simplified": "比如",
+      "pinyin": "bǐ rú",
+      "english": "for example, for instance, such as",
+      "pinyinNumbered": "bi3 ru2"
+    },
+    {
+      "traditional": "比如說",
+      "simplified": "比如说",
+      "pinyin": "bǐrúshuō",
+      "english": "For example",
+      "pinyinNumbered": "bi3ru2shuo1"
+    },
+    {
+      "traditional": "筆",
+      "simplified": "笔",
+      "pinyin": "bǐ",
+      "english": "m.[general]",
+      "pinyinNumbered": "bi3"
+    },
+    {
+      "traditional": "筆記",
+      "simplified": "笔记",
+      "pinyin": "bǐjì",
+      "english": "short sketches, adversaria, notes, note",
+      "pinyinNumbered": "bi3ji4"
+    },
+    {
+      "traditional": "筆記本",
+      "simplified": "笔记本",
+      "pinyin": "bǐ jì běn",
+      "english": "notebook (stationery), CL:本[ben3], notebook (computing)",
+      "pinyinNumbered": "bi3 ji4 ben3"
+    },
+    {
+      "traditional": "必須",
+      "simplified": "必须",
+      "pinyin": "bìxū",
+      "english": "must",
+      "pinyinNumbered": "bi4xu1"
+    },
+    {
+      "traditional": "邊",
+      "simplified": "边",
+      "pinyin": "biān",
+      "english": "border, boundary",
+      "pinyinNumbered": "bian1"
+    },
+    {
+      "traditional": "變",
+      "simplified": "变",
+      "pinyin": "biàn",
+      "english": "change, transform",
+      "pinyinNumbered": "bian4"
+    },
+    {
+      "traditional": "變成",
+      "simplified": "变成",
+      "pinyin": "biànchéng",
+      "english": "grow into, change into, go, form, grow into, change state, develop into, turn to, fall, turn into, be, turn, become, turn into, grow, run, get",
+      "pinyinNumbered": "bian4cheng2"
+    },
+    {
+      "traditional": "遍",
+      "simplified": "遍",
+      "pinyin": "biàn",
+      "english": "m.[activity]",
+      "pinyinNumbered": "bian4"
+    },
+    {
+      "traditional": "表",
+      "simplified": "表",
+      "pinyin": "biǎo",
+      "english": "table, form, list",
+      "pinyinNumbered": "biao3"
+    },
+    {
+      "traditional": "示",
+      "simplified": "示",
+      "pinyin": "shì",
+      "english": "to show, to reveal",
+      "pinyinNumbered": "shi4"
+    },
+    {
+      "traditional": "不錯",
+      "simplified": "不错",
+      "pinyin": "búcuò",
+      "english": "not bad, pretty good, correct, right",
+      "pinyinNumbered": "bu2cuo4"
+    },
+    {
+      "traditional": "不但",
+      "simplified": "不但",
+      "pinyin": "búdàn",
+      "english": "conj.: not only",
+      "pinyinNumbered": "bu2dan4"
+    },
+    {
+      "traditional": "不夠",
+      "simplified": "不够",
+      "pinyin": "bù goù",
+      "english": "not enough, insufficient, inadequate",
+      "pinyinNumbered": "bu4 gou4"
+    },
+    {
+      "traditional": "不過",
+      "simplified": "不过",
+      "pinyin": "búguò",
+      "english": "conj.: but, however, only",
+      "pinyinNumbered": "bu2guo4"
+    },
+    {
+      "traditional": "不太",
+      "simplified": "不太",
+      "pinyin": "butài",
+      "english": "Not too",
+      "pinyinNumbered": "bu5tai4"
+    },
+    {
+      "traditional": "不要",
+      "simplified": "不要",
+      "pinyin": "búyào",
+      "english": "never, noway, don't want, don't (do sth.)",
+      "pinyinNumbered": "bu2yao4"
+    },
+    {
+      "traditional": "不好意思",
+      "simplified": "不好意思",
+      "pinyin": "bùhǎoyìsī",
+      "english": "embarrassed, be ill at ease, find it embarrassing, feel embarrassed",
+      "pinyinNumbered": "bu4hao3yi4si1"
+    },
+    {
+      "traditional": "不久",
+      "simplified": "不久",
+      "pinyin": "bù jiǔ",
+      "english": "not long (after), before too long, soon, soon after",
+      "pinyinNumbered": "bu4 jiu3"
+    },
+    {
+      "traditional": "不滿",
+      "simplified": "不满",
+      "pinyin": "bùmǎn",
+      "english": "resentful, dissatisfied",
+      "pinyinNumbered": "bu4man3"
+    },
+    {
+      "traditional": "不如",
+      "simplified": "不如",
+      "pinyin": "bùrú",
+      "english": "be unequal/inferior to",
+      "pinyinNumbered": "bu4ru2"
+    },
+    {
+      "traditional": "不少",
+      "simplified": "不少",
+      "pinyin": "bùshǎo",
+      "english": "det.: a lot of",
+      "pinyinNumbered": "bu4shao3"
+    },
+    {
+      "traditional": "不同",
+      "simplified": "不同",
+      "pinyin": "bùtóng",
+      "english": "different",
+      "pinyinNumbered": "bu4tong2"
+    },
+    {
+      "traditional": "不行",
+      "simplified": "不行",
+      "pinyin": "bù xíng",
+      "english": "won't do, be out of the question, be no good, not work, not be capable",
+      "pinyinNumbered": "bu4 xing2"
+    },
+    {
+      "traditional": "不一定",
+      "simplified": "不一定",
+      "pinyin": "bùyīdìng",
+      "english": "not sure, maybe",
+      "pinyinNumbered": "bu4yi1ding4"
+    },
+    {
+      "traditional": "不一會兒",
+      "simplified": "不一会儿",
+      "pinyin": "buyīhuìér",
+      "english": "Take a short while",
+      "pinyinNumbered": "bu5yi1hui4er2"
+    },
+    {
+      "traditional": "部分",
+      "simplified": "部分",
+      "pinyin": "bùfèn",
+      "english": "partial, department, section, partialness, slice, pars, part, det.: part, percent, partage, sphere, component, divvy, segment, portion, fraction, sector, chapter, share, percentage, piece, division, sectional, parcel",
+      "pinyinNumbered": "bu4fen4"
+    },
+    {
+      "traditional": "才",
+      "simplified": "才",
+      "pinyin": "cái",
+      "english": "then and only then, just now, only (before a number)",
+      "pinyinNumbered": "cai2"
+    },
+    {
+      "traditional": "菜單",
+      "simplified": "菜单",
+      "pinyin": "cài dān",
+      "english": "menu, CL:份[fen4],張|张[zhang1]",
+      "pinyinNumbered": "cai4 dan1"
+    },
+    {
+      "traditional": "參觀",
+      "simplified": "参观",
+      "pinyin": "cānguān",
+      "english": "visit, tour",
+      "pinyinNumbered": "can1guan1"
+    },
+    {
+      "traditional": "參加",
+      "simplified": "参加",
+      "pinyin": "cānjiā",
+      "english": "join, attend, take part in, give (advice/etc.)",
+      "pinyinNumbered": "can1jia1"
+    },
+    {
+      "traditional": "草",
+      "simplified": "草",
+      "pinyin": "cǎo",
+      "english": "female (of animals), herb, herbage, female, careless, hasty, grass, rough, wort, draft, straw",
+      "pinyinNumbered": "cao3"
+    },
+    {
+      "traditional": "草地",
+      "simplified": "草地",
+      "pinyin": "cǎo dì",
+      "english": "lawn, meadow, sod, turf, CL:片[pian4]",
+      "pinyinNumbered": "cao3 di4"
+    },
+    {
+      "traditional": "層",
+      "simplified": "层",
+      "pinyin": "céng",
+      "english": "m.[proximation]",
+      "pinyinNumbered": "ceng2"
+    },
+    {
+      "traditional": "查",
+      "simplified": "查",
+      "pinyin": "chá",
+      "english": "look into, consult, look up, search, investigate, consultation, audit, examination, investigation, check, examine",
+      "pinyinNumbered": "cha2"
+    },
+    {
+      "traditional": "差不多",
+      "simplified": "差不多",
+      "pinyin": "chābùduō",
+      "english": "good enough",
+      "pinyinNumbered": "cha1bu4duo1"
+    },
+    {
+      "traditional": "長",
+      "simplified": "长",
+      "pinyin": "cháng",
+      "english": "long, be strong/good (in/at)",
+      "pinyinNumbered": "chang2"
+    },
+    {
+      "traditional": "常見",
+      "simplified": "常见",
+      "pinyin": "chángjiàn",
+      "english": "commonly seen",
+      "pinyinNumbered": "chang2jian4"
+    },
+    {
+      "traditional": "常用",
+      "simplified": "常用",
+      "pinyin": "cháng yòng",
+      "english": "in common usage",
+      "pinyinNumbered": "chang2 yong4"
+    },
+    {
+      "traditional": "場",
+      "simplified": "场",
+      "pinyin": "cháng",
+      "english": "m.[event]",
+      "pinyinNumbered": "chang2"
+    },
+    {
+      "traditional": "超過",
+      "simplified": "超过",
+      "pinyin": "chāoguò",
+      "english": "overpass, overreach, outwalk, outstrip, overstep, outmarch, distance, pass, overstride, outpace, overtop, surpass, crown, exceed, overtake, preponderate, overrun, top, outrun, go over, transcend, outrange, transgress, go past, break, excess, overhaul, overshine",
+      "pinyinNumbered": "chao1guo4"
+    },
+    {
+      "traditional": "超市",
+      "simplified": "超市",
+      "pinyin": "chāo shì",
+      "english": "supermarket, abbr. for 超級市場|超级市场, CL:家[jia1]",
+      "pinyinNumbered": "chao1 shi4"
+    },
+    {
+      "traditional": "車輛",
+      "simplified": "车辆",
+      "pinyin": "chēliàng",
+      "english": "voiture, vehicular traffic, vehicle, cars, vehicle traffic, car, vehicles, carriage, rolling stock, equipment",
+      "pinyinNumbered": "che1liang4"
+    },
+    {
+      "traditional": "稱",
+      "simplified": "称",
+      "pinyin": "chēng",
+      "english": "call",
+      "pinyinNumbered": "cheng1"
+    },
+    {
+      "traditional": "成",
+      "simplified": "成",
+      "pinyin": "chéng",
+      "english": "become, turn into",
+      "pinyinNumbered": "cheng2"
+    },
+    {
+      "traditional": "成績",
+      "simplified": "成绩",
+      "pinyin": "chéngjī",
+      "english": "execution, carrying into action, achievement, result, showing, carrying out, performance, grade, success, doing, batting average",
+      "pinyinNumbered": "cheng2ji1"
+    },
+    {
+      "traditional": "成為",
+      "simplified": "成为",
+      "pinyin": "chéngwéi",
+      "english": "find, join, comprise, turn to, commemorate, sample, entomb, come up, commence, get hold, learn, add up, necessitate, run, make up, constitute, make, form, come, amount, represent, fall, presage, change, be, turn, turn into, become, line up, come up, shape, portend, foretell, get",
+      "pinyinNumbered": "cheng2wei2"
+    },
+    {
+      "traditional": "重複",
+      "simplified": "重复",
+      "pinyin": "chóngfù",
+      "english": "repeat, duplicate",
+      "pinyinNumbered": "chong2fu4"
+    },
+    {
+      "traditional": "重新",
+      "simplified": "重新",
+      "pinyin": "chóngxīn",
+      "english": "over again, newly, afresh, anew, again",
+      "pinyinNumbered": "chong2xin1"
+    },
+    {
+      "traditional": "出發",
+      "simplified": "出发",
+      "pinyin": "chūfā",
+      "english": "depart, get off, proceed, take the road, part, set out, start from, start out, sidetrack, start/proceed from, stray, take the road, sally out, sally forth, proceed from, set off, sally forth, take off, start, set forth, set off, digress, straggle, start off, move",
+      "pinyinNumbered": "chu1fa1"
+    },
+    {
+      "traditional": "出國",
+      "simplified": "出国",
+      "pinyin": "chūguó",
+      "english": "go abroad (from one's own country)",
+      "pinyinNumbered": "chu1guo2"
+    },
+    {
+      "traditional": "出口",
+      "simplified": "出口",
+      "pinyin": "chūkǒu",
+      "english": "export",
+      "pinyinNumbered": "chu1kou3"
+    },
+    {
+      "traditional": "出門",
+      "simplified": "出门",
+      "pinyin": "chūmén",
+      "english": "go out, go on journey, go out, go on a journey, be away from home",
+      "pinyinNumbered": "chu1men2"
+    },
+    {
+      "traditional": "出生",
+      "simplified": "出生",
+      "pinyin": "chūshēng",
+      "english": "be born",
+      "pinyinNumbered": "chu1sheng1"
+    },
+    {
+      "traditional": "出現",
+      "simplified": "出现",
+      "pinyin": "chūxiàn",
+      "english": "appear, arise, emerge",
+      "pinyinNumbered": "chu1xian4"
+    },
+    {
+      "traditional": "出院",
+      "simplified": "出院",
+      "pinyin": "chū yuàn",
+      "english": "to leave hospital, to be discharged from hospital",
+      "pinyinNumbered": "chu1 yuan4"
+    },
+    {
+      "traditional": "出租",
+      "simplified": "出租",
+      "pinyin": "chūzū",
+      "english": "hire, let, rent",
+      "pinyinNumbered": "chu1zu1"
+    },
+    {
+      "traditional": "出租車",
+      "simplified": "出租车",
+      "pinyin": "chū zū chē",
+      "english": "taxi, (Taiwan) rental car",
+      "pinyinNumbered": "chu1 zu1 che1"
+    },
+    {
+      "traditional": "船",
+      "simplified": "船",
+      "pinyin": "chuán",
+      "english": "bottom, body, ship, catcher, bow, bark, boat, shipboard, prow, watercraft, craft, drone, vessel, keel, sailer",
+      "pinyinNumbered": "chuan2"
+    },
+    {
+      "traditional": "吹",
+      "simplified": "吹",
+      "pinyin": "chuī",
+      "english": "fall through (of plans), wind, fall through, tout, play, gasconade, shoot a line, blow, break up, chuff, vaunt, boast, brag, gas, bluster, talk big, break off, toot, swash, play (wind instruments), huff, puff, land",
+      "pinyinNumbered": "chui1"
+    },
+    {
+      "traditional": "春節",
+      "simplified": "春节",
+      "pinyin": "Chūn jié",
+      "english": "Spring Festival (Chinese New Year)",
+      "pinyinNumbered": "Chun1 jie2"
+    },
+    {
+      "traditional": "春天",
+      "simplified": "春天",
+      "pinyin": "chūn tiān",
+      "english": "spring (season), CL:個|个[ge4]",
+      "pinyinNumbered": "chun1 tian1"
+    },
+    {
+      "traditional": "詞",
+      "simplified": "词",
+      "pinyin": "cí",
+      "english": "vocable, words, phrase, a kind of poetry originating in Tang dyn, statement, a form of classical poetry, part of speech, speech, Ci, Chinese poetry, term, word",
+      "pinyinNumbered": "ci2"
+    },
+    {
+      "traditional": "詞典",
+      "simplified": "词典",
+      "pinyin": "cídiǎn",
+      "english": "lexicon, dictionary",
+      "pinyinNumbered": "ci2dian3"
+    },
+    {
+      "traditional": "詞語",
+      "simplified": "词语",
+      "pinyin": "cí yǔ",
+      "english": "word (general term including monosyllables through to short phrases), term (e.g. technical term), expression",
+      "pinyinNumbered": "ci2 yu3"
+    },
+    {
+      "traditional": "從小",
+      "simplified": "从小",
+      "pinyin": "cóngxiǎo",
+      "english": "from childhood, as a child",
+      "pinyinNumbered": "cong2xiao3"
+    },
+    {
+      "traditional": "答應",
+      "simplified": "答应",
+      "pinyin": "dāyìng",
+      "english": "agree, promise",
+      "pinyinNumbered": "da1ying4"
+    },
+    {
+      "traditional": "打工",
+      "simplified": "打工",
+      "pinyin": "dǎgōng",
+      "english": "work part-time while studying in college, work as an employee, etc.",
+      "pinyinNumbered": "da3gong1"
+    },
+    {
+      "traditional": "打算",
+      "simplified": "打算",
+      "pinyin": "dǎsuàn",
+      "english": "mean, specify, plan, think, intention, propose, design, purpose, contemplate, allot, destine, calculate, intend, designate, be after",
+      "pinyinNumbered": "da3suan4"
+    },
+    {
+      "traditional": "打印",
+      "simplified": "打印",
+      "pinyin": "dǎ yìn",
+      "english": "to print, to seal, to stamp",
+      "pinyinNumbered": "da3 yin4"
+    },
+    {
+      "traditional": "大部分",
+      "simplified": "大部分",
+      "pinyin": "dàbùfèn",
+      "english": "det.: most of, the majority of",
+      "pinyinNumbered": "da4bu4fen4"
+    },
+    {
+      "traditional": "大大",
+      "simplified": "大大",
+      "pinyin": "dà dà",
+      "english": "greatly, enormously, (dialect) dad, uncle",
+      "pinyinNumbered": "da4 da4"
+    },
+    {
+      "traditional": "大多數",
+      "simplified": "大多数",
+      "pinyin": "dàduōshù",
+      "english": "det.: most of, the majority of",
+      "pinyinNumbered": "da4duo1shu4"
+    },
+    {
+      "traditional": "大海",
+      "simplified": "大海",
+      "pinyin": "dàhǎi",
+      "english": "seaway, sea, the open sea",
+      "pinyinNumbered": "da4hai3"
+    },
+    {
+      "traditional": "大家",
+      "simplified": "大家",
+      "pinyin": "dàjiā",
+      "english": "sundry, great master, rich and influential family, pontiff, all of us, everyone, authority, master, distinguished family",
+      "pinyinNumbered": "da4jia1"
+    },
+    {
+      "traditional": "大量",
+      "simplified": "大量",
+      "pinyin": "dàliàng",
+      "english": "det.: any numer of, a great many",
+      "pinyinNumbered": "da4liang4"
+    },
+    {
+      "traditional": "大門",
+      "simplified": "大门",
+      "pinyin": "dàmén",
+      "english": "barndoor, portal, main entrance, front door, gate, door, entry, main door/gate, front door, main entrance/door/gate, entrance",
+      "pinyinNumbered": "da4men2"
+    },
+    {
+      "traditional": "大人",
+      "simplified": "大人",
+      "pinyin": "dàrén",
+      "english": "grownup, adult, milord, respectful salutation for one's seniors/, grown-up, respectful salutation for one's parents, Your Excellency, panjandrum, Highness, respectful salutation for one's parents/seniors/etc., Tuan, Bahadur, bahadur, sahib",
+      "pinyinNumbered": "da4ren2"
+    },
+    {
+      "traditional": "大聲",
+      "simplified": "大声",
+      "pinyin": "dàshēng",
+      "english": "loud, loud voice",
+      "pinyinNumbered": "da4sheng1"
+    },
+    {
+      "traditional": "大小",
+      "simplified": "大小",
+      "pinyin": "dàxiǎo",
+      "english": "calibre, measurement, admeasurement, bulk, proportion, magnitude, extent, degree of seniority, dimension, girth, size, adults and children",
+      "pinyinNumbered": "da4xiao3"
+    },
+    {
+      "traditional": "大衣",
+      "simplified": "大衣",
+      "pinyin": "dà yī",
+      "english": "overcoat, topcoat, cloak, CL:件[jian4]",
+      "pinyinNumbered": "da4 yi1"
+    },
+    {
+      "traditional": "大自然",
+      "simplified": "大自然",
+      "pinyin": "dàzìrán",
+      "english": "wild, earth, nature, natural state, state of nature",
+      "pinyinNumbered": "da4zi4ran2"
+    },
+    {
+      "traditional": "帶",
+      "simplified": "带",
+      "pinyin": "dài",
+      "english": "look after, raise",
+      "pinyinNumbered": "dai4"
+    },
+    {
+      "traditional": "帶來",
+      "simplified": "带来",
+      "pinyin": "dàilái",
+      "english": "bring, redound, impart, bring on, bring on, express, fetch, lend, convey, contribute, bring about, bestow, carry, bring oneself, add, usher, incur, land",
+      "pinyinNumbered": "dai4lai2"
+    },
+    {
+      "traditional": "單位",
+      "simplified": "单位",
+      "pinyin": "dānwèi",
+      "english": "department, unit, denomination, module, building block, unit of measurement, monad, unit (in measurement or organization)",
+      "pinyinNumbered": "dan1wei4"
+    },
+    {
+      "traditional": "但",
+      "simplified": "但",
+      "pinyin": "dàn",
+      "english": "conj.: but, yet, still, nevertheless, only, merely",
+      "pinyinNumbered": "dan4"
+    },
+    {
+      "traditional": "但是",
+      "simplified": "但是",
+      "pinyin": "dànshì",
+      "english": "conj.: but, however, yet, still",
+      "pinyinNumbered": "dan4shi4"
+    },
+    {
+      "traditional": "蛋",
+      "simplified": "蛋",
+      "pinyin": "dàn",
+      "english": "clump, egg, lump, bunch, an egg-shaped thing",
+      "pinyinNumbered": "dan4"
+    },
+    {
+      "traditional": "當",
+      "simplified": "当",
+      "pinyin": "dāng",
+      "english": "when, while",
+      "pinyinNumbered": "dang1"
+    },
+    {
+      "traditional": "當時",
+      "simplified": "当时",
+      "pinyin": "dàng shí",
+      "english": "then, at that time, while, at once, right away",
+      "pinyinNumbered": "dang4 shi2"
+    },
+    {
+      "traditional": "倒",
+      "simplified": "倒",
+      "pinyin": "dào",
+      "english": "actually",
+      "pinyinNumbered": "dao4"
+    },
+    {
+      "traditional": "到處",
+      "simplified": "到处",
+      "pinyin": "dàochù",
+      "english": "universally, everywhere, everyplace, far and near, about, around, far and wide, all over, high and low, all over, throughout, high and low, far and near, passim, abroad, at all places",
+      "pinyinNumbered": "dao4chu4"
+    },
+    {
+      "traditional": "道",
+      "simplified": "道",
+      "pinyin": "dào",
+      "english": "say, speak, talk, think, suppose",
+      "pinyinNumbered": "dao4"
+    },
+    {
+      "traditional": "道理",
+      "simplified": "道理",
+      "pinyin": "dàolǐ",
+      "english": "thread, principle, the right way, theory, reason, argument, sense, order, truth, rationality",
+      "pinyinNumbered": "dao4li3"
+    },
+    {
+      "traditional": "道路",
+      "simplified": "道路",
+      "pinyin": "dàolù",
+      "english": "track, path, runway, steps, route, course, toby, road, thoroughfare, way",
+      "pinyinNumbered": "dao4lu4"
+    },
+    {
+      "traditional": "得",
+      "simplified": "得",
+      "pinyin": "děi",
+      "english": "should be, need",
+      "pinyinNumbered": "dei3"
+    },
+    {
+      "traditional": "得出",
+      "simplified": "得出",
+      "pinyin": "dé chū",
+      "english": "to obtain (results), to arrive at (a conclusion)",
+      "pinyinNumbered": "de2 chu1"
+    },
+    {
+      "traditional": "的話",
+      "simplified": "的话",
+      "pinyin": "dehuà",
+      "english": "conj.: if",
+      "pinyinNumbered": "de5hua4"
+    },
+    {
+      "traditional": "燈",
+      "simplified": "灯",
+      "pinyin": "dēng",
+      "english": "blowlamp, lantern, light source, light, lamp, tube, valve, burner",
+      "pinyinNumbered": "deng1"
+    },
+    {
+      "traditional": "等",
+      "simplified": "等",
+      "pinyin": "děng",
+      "english": "conj.: and so on, etc",
+      "pinyinNumbered": "deng3"
+    },
+    {
+      "traditional": "等到",
+      "simplified": "等到",
+      "pinyin": "děngdào",
+      "english": "until",
+      "pinyinNumbered": "deng3dao4"
+    },
+    {
+      "traditional": "等於",
+      "simplified": "等于",
+      "pinyin": "děngyū",
+      "english": "be equal to, tantamount to, equal, be equal, amount, reach, be, be equivalent to",
+      "pinyinNumbered": "deng3yu1"
+    },
+    {
+      "traditional": "低",
+      "simplified": "低",
+      "pinyin": "dī",
+      "english": "let droop, hang down, lower",
+      "pinyinNumbered": "di1"
+    },
+    {
+      "traditional": "地球",
+      "simplified": "地球",
+      "pinyin": "dìqiú",
+      "english": "the earth/globe, globe, world, Earth, ball, terrene, earth, the globe, the earth",
+      "pinyinNumbered": "di4qiu2"
+    },
+    {
+      "traditional": "地鐵",
+      "simplified": "地铁",
+      "pinyin": "dì tiě",
+      "english": "subway, metro",
+      "pinyinNumbered": "di4 tie3"
+    },
+    {
+      "traditional": "地鐵站",
+      "simplified": "地铁站",
+      "pinyin": "dì tiě zhàn",
+      "english": "subway station",
+      "pinyinNumbered": "di4 tie3 zhan4"
+    },
+    {
+      "traditional": "點頭",
+      "simplified": "点头",
+      "pinyin": "diǎntóu",
+      "english": "take a bow, nod one's head, noddle, nod",
+      "pinyinNumbered": "dian3tou2"
+    },
+    {
+      "traditional": "店",
+      "simplified": "店",
+      "pinyin": "diàn",
+      "english": "shop, store, inn",
+      "pinyinNumbered": "dian4"
+    },
+    {
+      "traditional": "掉",
+      "simplified": "掉",
+      "pinyin": "diào",
+      "english": "drop, reduce, exchange, lose, fall behind, be missing, fall, knock, come off, change, shed, turn",
+      "pinyinNumbered": "diao4"
+    },
+    {
+      "traditional": "東北",
+      "simplified": "东北",
+      "pinyin": "dōngběi",
+      "english": "Northeast China, Manchuria",
+      "pinyinNumbered": "dong1bei3"
+    },
+    {
+      "traditional": "東方",
+      "simplified": "东方",
+      "pinyin": "dōngfāng",
+      "english": "oriental, dawning, northeast, eastward, E, Orient, orient, orientation, the Orient, Surname, sunrise, eastern, eastern hemisphere, Dongfang, due east, East, the East, east, the east",
+      "pinyinNumbered": "dong1fang1"
+    },
+    {
+      "traditional": "東南",
+      "simplified": "东南",
+      "pinyin": "dōngnán",
+      "english": "sou'-east, Southeast China, southeast, SE",
+      "pinyinNumbered": "dong1nan2"
+    },
+    {
+      "traditional": "冬天",
+      "simplified": "冬天",
+      "pinyin": "dōng tiān",
+      "english": "winter, CL:個|个[ge4]",
+      "pinyinNumbered": "dong1 tian1"
+    },
+    {
+      "traditional": "懂",
+      "simplified": "懂",
+      "pinyin": "dǒng",
+      "english": "have, comprehend, understanding, understand, compass, grasp, get the picture, glom, know, apprehend, twig, savvy, follow, make out, dig",
+      "pinyinNumbered": "dong3"
+    },
+    {
+      "traditional": "懂得",
+      "simplified": "懂得",
+      "pinyin": "dǒngde",
+      "english": "experience, know, live, understanding, understand, twig, gaum, grasp",
+      "pinyinNumbered": "dong3de5"
+    },
+    {
+      "traditional": "動物",
+      "simplified": "动物",
+      "pinyin": "dòngwù",
+      "english": "thing, critter, crittur, zoic, anthropomorphism, animal, deer, animate being, beast, creature, burrow, sire, worker, fauna, brute",
+      "pinyinNumbered": "dong4wu4"
+    },
+    {
+      "traditional": "動物園",
+      "simplified": "动物园",
+      "pinyin": "dòngwùyuán",
+      "english": "zoological garden, zoo, zoological garden, menagerie",
+      "pinyinNumbered": "dong4wu4yuan2"
+    },
+    {
+      "traditional": "讀音",
+      "simplified": "读音",
+      "pinyin": "dú yīn",
+      "english": "pronunciation, literary (rather than colloquial) pronunciation of a Chinese character",
+      "pinyinNumbered": "du2 yin1"
+    },
+    {
+      "traditional": "度",
+      "simplified": "度",
+      "pinyin": "dù",
+      "english": "m.[activity]",
+      "pinyinNumbered": "du4"
+    },
+    {
+      "traditional": "短",
+      "simplified": "短",
+      "pinyin": "duǎn",
+      "english": "short, brief",
+      "pinyinNumbered": "duan3"
+    },
+    {
+      "traditional": "短信",
+      "simplified": "短信",
+      "pinyin": "duǎn xìn",
+      "english": "text message, SMS",
+      "pinyinNumbered": "duan3 xin4"
+    },
+    {
+      "traditional": "段",
+      "simplified": "段",
+      "pinyin": "duàn",
+      "english": "m.[general]",
+      "pinyinNumbered": "duan4"
+    },
+    {
+      "traditional": "隊",
+      "simplified": "队",
+      "pinyin": "duì",
+      "english": "m.[general]",
+      "pinyinNumbered": "dui4"
+    },
+    {
+      "traditional": "隊長",
+      "simplified": "队长",
+      "pinyin": "duìzhǎng",
+      "english": "captain, chieftain, skipper, police chief, header, headman, commandant, police captain, sirdar, team leader",
+      "pinyinNumbered": "dui4zhang3"
+    },
+    {
+      "traditional": "對",
+      "simplified": "对",
+      "pinyin": "duì",
+      "english": "correct, true, toward",
+      "pinyinNumbered": "dui4"
+    },
+    {
+      "traditional": "對話",
+      "simplified": "对话",
+      "pinyin": "duìhuà",
+      "english": "dialogue",
+      "pinyinNumbered": "dui4hua4"
+    },
+    {
+      "traditional": "對面",
+      "simplified": "对面",
+      "pinyin": "duìmiàn",
+      "english": "opposite",
+      "pinyinNumbered": "dui4mian4"
+    },
+    {
+      "traditional": "多",
+      "simplified": "多",
+      "pinyin": "duō",
+      "english": "many, much, more, more than the correct/required number, excessive, too much, much/far more",
+      "pinyinNumbered": "duo1"
+    },
+    {
+      "traditional": "多久",
+      "simplified": "多久",
+      "pinyin": "duō jiǔ",
+      "english": "how long?",
+      "pinyinNumbered": "duo1 jiu3"
+    },
+    {
+      "traditional": "多麼",
+      "simplified": "多么",
+      "pinyin": "duóme",
+      "english": "to what extent, to what degree, however, what, how",
+      "pinyinNumbered": "duo2me5"
+    },
+    {
+      "traditional": "多數",
+      "simplified": "多数",
+      "pinyin": "duōshù",
+      "english": "trillions, millions, mort, relative majority, throng, det : majority, prevalence, multitude, lac, Host, host, bulk, horde, raft, million, lakh, rimption, pack, skit, strength, acre, generality, ruck, chunk, number, shoal, multiplicity, billions, preponderance, jillions, zillions, grist, world, majority, meiny, regiment, legion, mass, plurality",
+      "pinyinNumbered": "duo1shu4"
+    },
+    {
+      "traditional": "多雲",
+      "simplified": "多云",
+      "pinyin": "duō yún",
+      "english": "cloudy (meteorology)",
+      "pinyinNumbered": "duo1 yun2"
+    },
+    {
+      "traditional": "而且",
+      "simplified": "而且",
+      "pinyin": "érqiě",
+      "english": "conj.: furthermore, and",
+      "pinyinNumbered": "er2qie3"
+    },
+    {
+      "traditional": "發",
+      "simplified": "发",
+      "pinyin": "fā",
+      "english": "distribute",
+      "pinyinNumbered": "fa1"
+    },
+    {
+      "traditional": "發現",
+      "simplified": "发现",
+      "pinyin": "fāxiàn",
+      "english": "find, discover",
+      "pinyinNumbered": "fa1xian4"
+    },
+    {
+      "traditional": "飯館",
+      "simplified": "饭馆",
+      "pinyin": "fàn guǎn",
+      "english": "restaurant, CL:家[jia1]",
+      "pinyinNumbered": "fan4 guan3"
+    },
+    {
+      "traditional": "方便",
+      "simplified": "方便",
+      "pinyin": "fāngbiàn",
+      "english": "convenient",
+      "pinyinNumbered": "fang1bian4"
+    },
+    {
+      "traditional": "方便麵",
+      "simplified": "方便面",
+      "pinyin": "fāng biàn miàn",
+      "english": "instant noodles",
+      "pinyinNumbered": "fang1 bian4 mian4"
+    },
+    {
+      "traditional": "方法",
+      "simplified": "方法",
+      "pinyin": "fāngfǎ",
+      "english": "know-how, plan, attack, system, stepping-stone, manner, method, gateway, idea, measure, way, guise, key, wise, quomodo, plan of attack, tack, machinery, process, avenue, modus, how, means, channel, gate, approach, agency, gamesmanship, mode, medium, sort",
+      "pinyinNumbered": "fang1fa3"
+    },
+    {
+      "traditional": "方面",
+      "simplified": "方面",
+      "pinyin": "fāngmiàn",
+      "english": "side, aspect, sector, part, light, facet, behalf, way, respect, direction, bearing, field, phase, sphere, angle, hand",
+      "pinyinNumbered": "fang1mian4"
+    },
+    {
+      "traditional": "方向",
+      "simplified": "方向",
+      "pinyin": "fāngxiàng",
+      "english": "path, set, directional, aspect, tenor, course, lay, exposure, way, range, aim, trend, direction, bearing, orientation, hand, tack, way of life, quarter, channel, line, heading",
+      "pinyinNumbered": "fang1xiang4"
+    },
+    {
+      "traditional": "放下",
+      "simplified": "放下",
+      "pinyin": "fàngxià",
+      "english": "set down, set down, lay/put down, lay, lower, lay down, draw, lay down, dismount, put down, plank, drop away, deposit, digress, drop off, depose, put down, place down",
+      "pinyinNumbered": "fang4xia4"
+    },
+    {
+      "traditional": "放心",
+      "simplified": "放心",
+      "pinyin": "fàngxīn",
+      "english": "disburden, set one's mind at rest, set one's mood at rest, be at ease, feel relieved, rest assured",
+      "pinyinNumbered": "fang4xin1"
+    },
+    {
+      "traditional": "分",
+      "simplified": "分",
+      "pinyin": "fèn",
+      "english": "m.[general]",
+      "pinyinNumbered": "fen4"
+    },
+    {
+      "traditional": "分開",
+      "simplified": "分开",
+      "pinyin": "fēnkāi",
+      "english": "rive, uncouple, unyoke, divaricate, detach, disjoint, cleave, shift, break up, cut, segregate, isolate, divorce, severalize, unclasp, divide, dissever, disjoin, break, come off, demarcate, fork, sever, sequester, disconnect, part, come away, sunder, break up, keep apart, separate, diverge, branch, set off, ramify, split, sequestrate, untwine, separation, set apart, parcel",
+      "pinyinNumbered": "fen1kai1"
+    },
+    {
+      "traditional": "分數",
+      "simplified": "分数",
+      "pinyin": "fēnshù",
+      "english": "point, score, mark, grade, fraction, football score, numeric",
+      "pinyinNumbered": "fen1shu4"
+    },
+    {
+      "traditional": "分鐘",
+      "simplified": "分钟",
+      "pinyin": "fēnzhōng",
+      "english": "m.[standard]",
+      "pinyinNumbered": "fen1zhong1"
+    },
+    {
+      "traditional": "份",
+      "simplified": "份",
+      "pinyin": "fèn",
+      "english": "m.[general]",
+      "pinyinNumbered": "fen4"
+    },
+    {
+      "traditional": "封",
+      "simplified": "封",
+      "pinyin": "fēng",
+      "english": "m.[general]",
+      "pinyinNumbered": "feng1"
+    },
+    {
+      "traditional": "服務",
+      "simplified": "服务",
+      "pinyin": "fúwù",
+      "english": "be in the service of, serve",
+      "pinyinNumbered": "fu2wu4"
+    },
+    {
+      "traditional": "複習",
+      "simplified": "复习",
+      "pinyin": "fù xí",
+      "english": "to review, revision, variant of 復習|复习[fu4 xi2]",
+      "pinyinNumbered": "fu4 xi2"
+    },
+    {
+      "traditional": "該",
+      "simplified": "该",
+      "pinyin": "gāi",
+      "english": "det.: this, that",
+      "pinyinNumbered": "gai1"
+    },
+    {
+      "traditional": "改",
+      "simplified": "改",
+      "pinyin": "gǎi",
+      "english": "alteration, rectification, transformation, change, correct, put ... right, transform, rectify, revision, switch over to, ameliorate, revise, put right, amend, correction, gybe, alter",
+      "pinyinNumbered": "gai3"
+    },
+    {
+      "traditional": "改變",
+      "simplified": "改变",
+      "pinyin": "gǎibiàn",
+      "english": "change, transform",
+      "pinyinNumbered": "gai3bian4"
+    },
+    {
+      "traditional": "乾杯",
+      "simplified": "干杯",
+      "pinyin": "gān bēi",
+      "english": "to drink a toast, Cheers! (proposing a toast), Here's to you!, Bottoms up!, lit. dry cup",
+      "pinyinNumbered": "gan1 bei1"
+    },
+    {
+      "traditional": "感到",
+      "simplified": "感到",
+      "pinyin": "gǎndào",
+      "english": "feel, sense",
+      "pinyinNumbered": "gan3dao4"
+    },
+    {
+      "traditional": "感動",
+      "simplified": "感动",
+      "pinyin": "gǎndòng",
+      "english": "be touched, be moved, affect, feel, stir, thrill, melt, magnetize, inspire, touch, reach, move",
+      "pinyinNumbered": "gan3dong4"
+    },
+    {
+      "traditional": "感覺",
+      "simplified": "感觉",
+      "pinyin": "gǎnjué",
+      "english": "sense perception, feeling",
+      "pinyinNumbered": "gan3jue2"
+    },
+    {
+      "traditional": "感謝",
+      "simplified": "感谢",
+      "pinyin": "gǎnxiè",
+      "english": "thank, be grateful",
+      "pinyinNumbered": "gan3xie4"
+    },
+    {
+      "traditional": "幹活兒",
+      "simplified": "干活儿",
+      "pinyin": "gànhuór",
+      "english": "to work, manual labor",
+      "pinyinNumbered": "gan4huo2r5"
+    },
+    {
+      "traditional": "剛",
+      "simplified": "刚",
+      "pinyin": "gāng",
+      "english": "exactly, only a short while ago, just now, barely, only just, just",
+      "pinyinNumbered": "gang1"
+    },
+    {
+      "traditional": "剛纔",
+      "simplified": "刚才",
+      "pinyin": "gāng cái",
+      "english": "(just) a moment ago",
+      "pinyinNumbered": "gang1 cai2"
+    },
+    {
+      "traditional": "剛剛",
+      "simplified": "刚刚",
+      "pinyin": "gānggāng",
+      "english": "just now, scarcely, fresh, only, exactly, a moment ago, hardly, but, just",
+      "pinyinNumbered": "gang1gang1"
+    },
+    {
+      "traditional": "高級",
+      "simplified": "高级",
+      "pinyin": "gāojí",
+      "english": "high-level, high-class, quality",
+      "pinyinNumbered": "gao1ji2"
+    },
+    {
+      "traditional": "高中",
+      "simplified": "高中",
+      "pinyin": "gāozhōng",
+      "english": "senior middle school, senior high school",
+      "pinyinNumbered": "gao1zhong1"
+    },
+    {
+      "traditional": "個子",
+      "simplified": "个子",
+      "pinyin": "gèzi",
+      "english": "height, stature, build",
+      "pinyinNumbered": "ge4zi5"
+    },
+    {
+      "traditional": "更",
+      "simplified": "更",
+      "pinyin": "gèng",
+      "english": "more, still/even more, further, furthermore",
+      "pinyinNumbered": "geng4"
+    },
+    {
+      "traditional": "公共汽車",
+      "simplified": "公共汽车",
+      "pinyin": "gōng gòng qì chē",
+      "english": "bus, CL:輛|辆[liang4],班[ban1]",
+      "pinyinNumbered": "gong1 gong4 qi4 che1"
+    },
+    {
+      "traditional": "公交車",
+      "simplified": "公交车",
+      "pinyin": "gōng jiāo chē",
+      "english": "public transport vehicle, town bus, CL:輛|辆[liang4]",
+      "pinyinNumbered": "gong1 jiao1 che1"
+    },
+    {
+      "traditional": "公斤",
+      "simplified": "公斤",
+      "pinyin": "gōngjīn",
+      "english": "m.[standard]",
+      "pinyinNumbered": "gong1jin1"
+    },
+    {
+      "traditional": "公里",
+      "simplified": "公里",
+      "pinyin": "gōnglǐ",
+      "english": "m.[standard]",
+      "pinyinNumbered": "gong1li3"
+    },
+    {
+      "traditional": "公路",
+      "simplified": "公路",
+      "pinyin": "gōnglù",
+      "english": "trunk road, calzada, route, main road, highroad, highway, road, thoroughfare, causeway, chaussee",
+      "pinyinNumbered": "gong1lu4"
+    },
+    {
+      "traditional": "公平",
+      "simplified": "公平",
+      "pinyin": "gōngpíng",
+      "english": "fair, just, impartial",
+      "pinyinNumbered": "gong1ping2"
+    },
+    {
+      "traditional": "公司",
+      "simplified": "公司",
+      "pinyin": "gōngsī",
+      "english": "place of business, business organization, incorporation, establishment, business concern, office, concern, business establishment, business, enterprise, company, corporation",
+      "pinyinNumbered": "gong1si1"
+    },
+    {
+      "traditional": "公園",
+      "simplified": "公园",
+      "pinyin": "gōngyuán",
+      "english": "common, green, garden, commons, park",
+      "pinyinNumbered": "gong1yuan2"
+    },
+    {
+      "traditional": "狗",
+      "simplified": "狗",
+      "pinyin": "gǒu",
+      "english": "dog",
+      "pinyinNumbered": "gou3"
+    },
+    {
+      "traditional": "夠",
+      "simplified": "够",
+      "pinyin": "gòu",
+      "english": "be enough/sufficient/adequate",
+      "pinyinNumbered": "gou4"
+    },
+    {
+      "traditional": "故事",
+      "simplified": "故事",
+      "pinyin": "gùshì",
+      "english": "spiel, recital, relation, scam, rede, plot, yarn, narration, story, fiction, tale, history, legend, narrative",
+      "pinyinNumbered": "gu4shi4"
+    },
+    {
+      "traditional": "故意",
+      "simplified": "故意",
+      "pinyin": "gùyì",
+      "english": "purposive, deliberate, willful, intentional",
+      "pinyinNumbered": "gu4yi4"
+    },
+    {
+      "traditional": "顧客",
+      "simplified": "顾客",
+      "pinyin": "gùkè",
+      "english": "chap, client, shopper, correspondent, constituency, patronage, trade, market, guest, clientele, newspaperman, newspaperwoman, newswriter, pressman, customer agent, customer, business",
+      "pinyinNumbered": "gu4ke4"
+    },
+    {
+      "traditional": "關機",
+      "simplified": "关机",
+      "pinyin": "guān jī",
+      "english": "to turn off (a machine or device), to finish shooting a film",
+      "pinyinNumbered": "guan1 ji1"
+    },
+    {
+      "traditional": "關心",
+      "simplified": "关心",
+      "pinyin": "guānxīn",
+      "english": "be concerned about",
+      "pinyinNumbered": "guan1xin1"
+    },
+    {
+      "traditional": "觀點",
+      "simplified": "观点",
+      "pinyin": "guāndiǎn",
+      "english": "view, aspect, stand, point of view, light, eyes, framework, sentiment, bet, standpoint, point of view, eye, viewpoint, slant, perspective, position, angle",
+      "pinyinNumbered": "guan1dian3"
+    },
+    {
+      "traditional": "廣場",
+      "simplified": "广场",
+      "pinyin": "guǎngchǎng",
+      "english": "mews, agora, public square, concourse, carrefour, piazza, plaza, square, campus, place",
+      "pinyinNumbered": "guang3chang3"
+    },
+    {
+      "traditional": "廣告",
+      "simplified": "广告",
+      "pinyin": "guǎnggào",
+      "english": "advertisement",
+      "pinyinNumbered": "guang3gao4"
+    },
+    {
+      "traditional": "國際",
+      "simplified": "国际",
+      "pinyin": "guójì",
+      "english": "international",
+      "pinyinNumbered": "guo2ji4"
+    },
+    {
+      "traditional": "過來",
+      "simplified": "过来",
+      "pinyin": "guòlái",
+      "english": "come over/up, up, come over, come up, come over, come here",
+      "pinyinNumbered": "guo4lai2"
+    },
+    {
+      "traditional": "過年",
+      "simplified": "过年",
+      "pinyin": "guònián",
+      "english": "celebrate/spend New Year",
+      "pinyinNumbered": "guo4nian2"
+    },
+    {
+      "traditional": "過去",
+      "simplified": "过去",
+      "pinyin": "guòqù",
+      "english": "go over, pass by",
+      "pinyinNumbered": "guo4qu4"
+    },
+    {
+      "traditional": "過",
+      "simplified": "过",
+      "pinyin": "guò",
+      "english": "[aspect]",
+      "pinyinNumbered": "guo4"
+    },
+    {
+      "traditional": "海",
+      "simplified": "海",
+      "pinyin": "hǎi",
+      "english": "water, foam, bottom, main, huge group of people, Surname, sea catfish, the sea, sea, mare, drink, fishpond, briny, great capacity, Neptune, billow, huge group of things, depth, waters, pond, wave, brine, big lake",
+      "pinyinNumbered": "hai3"
+    },
+    {
+      "traditional": "海邊",
+      "simplified": "海边",
+      "pinyin": "hǎi biān",
+      "english": "coast, seaside, seashore, beach",
+      "pinyinNumbered": "hai3 bian1"
+    },
+    {
+      "traditional": "喊",
+      "simplified": "喊",
+      "pinyin": "hǎn",
+      "english": "cry out, yell",
+      "pinyinNumbered": "han3"
+    },
+    {
+      "traditional": "好",
+      "simplified": "好",
+      "pinyin": "hǎo",
+      "english": "good",
+      "pinyinNumbered": "hao3"
+    },
+    {
+      "traditional": "好處",
+      "simplified": "好处",
+      "pinyin": "hǎochù",
+      "english": "pull, profit, advantage, stead, benefit, virtu, welfare, virtue, good, behoof, goodness, gain, pap, beauty, beaut",
+      "pinyinNumbered": "hao3chu4"
+    },
+    {
+      "traditional": "好多",
+      "simplified": "好多",
+      "pinyin": "hǎoduō",
+      "english": "det : many, much",
+      "pinyinNumbered": "hao3duo1"
+    },
+    {
+      "traditional": "好久",
+      "simplified": "好久",
+      "pinyin": "hǎo jiǔ",
+      "english": "quite a while",
+      "pinyinNumbered": "hao3 jiu3"
+    },
+    {
+      "traditional": "好人",
+      "simplified": "好人",
+      "pinyin": "hǎorén",
+      "english": "a healthy person, good person, goodman, sb. who tries to get along with everyone, bawcock, good, agreeable individual, good egg, a person who tries to get along with everyone (oft",
+      "pinyinNumbered": "hao3ren2"
+    },
+    {
+      "traditional": "好事",
+      "simplified": "好事",
+      "pinyin": "hǎo shì, hào shì",
+      "english": "good action, deed, thing or work (also sarcastic, 'a fine thing indeed'), charity, happy occasion, Daoist or Buddhist ceremony for the souls of the dead, to be meddlesome",
+      "pinyinNumbered": "hao3 shi4, 5hao4 shi4"
+    },
+    {
+      "traditional": "好像",
+      "simplified": "好像",
+      "pinyin": "hǎoxiàng",
+      "english": "seem, be like",
+      "pinyinNumbered": "hao3xiang4"
+    },
+    {
+      "traditional": "合適",
+      "simplified": "合适",
+      "pinyin": "héshì",
+      "english": "set, fit, accommodate, befit, suitable, right, appropriate, belong, beseem, becoming, suit",
+      "pinyinNumbered": "he2shi4"
+    },
+    {
+      "traditional": "河",
+      "simplified": "河",
+      "pinyin": "hé",
+      "english": "watercourse, stream, Yellow River, fluvial, river, drink",
+      "pinyinNumbered": "he2"
+    },
+    {
+      "traditional": "黑",
+      "simplified": "黑",
+      "pinyin": "hēi",
+      "english": "black, dark, wicked, sinister, vicious, be greedy, extort",
+      "pinyinNumbered": "hei1"
+    },
+    {
+      "traditional": "黑板",
+      "simplified": "黑板",
+      "pinyin": "hēi bǎn",
+      "english": "blackboard, CL:塊|块[kuai4],個|个[ge4]",
+      "pinyinNumbered": "hei1 ban3"
+    },
+    {
+      "traditional": "黑色",
+      "simplified": "黑色",
+      "pinyin": "hēisè",
+      "english": "black",
+      "pinyinNumbered": "hei1se4"
+    },
+    {
+      "traditional": "紅",
+      "simplified": "红",
+      "pinyin": "hóng",
+      "english": "in vogue, famous, redden, red, popular",
+      "pinyinNumbered": "hong2"
+    },
+    {
+      "traditional": "紅色",
+      "simplified": "红色",
+      "pinyin": "hóngsè",
+      "english": "red color",
+      "pinyinNumbered": "hong2se4"
+    },
+    {
+      "traditional": "後來",
+      "simplified": "后来",
+      "pinyin": "hoù lái",
+      "english": "afterwards, later",
+      "pinyinNumbered": "hou4 lai2"
+    },
+    {
+      "traditional": "忽然",
+      "simplified": "忽然",
+      "pinyin": "hūrán",
+      "english": "suddenly",
+      "pinyinNumbered": "hu1ran2"
+    },
+    {
+      "traditional": "湖",
+      "simplified": "湖",
+      "pinyin": "hú",
+      "english": "water, waterfront, a name referring to the provinces of Hunan and Hub, lacustrine, loch, mere, lake, lough, Hunan and Hubei, laky",
+      "pinyinNumbered": "hu2"
+    },
+    {
+      "traditional": "護照",
+      "simplified": "护照",
+      "pinyin": "hùzhào",
+      "english": "passport",
+      "pinyinNumbered": "hu4zhao4"
+    },
+    {
+      "traditional": "花",
+      "simplified": "花",
+      "pinyin": "huā",
+      "english": "spend, expend, cost",
+      "pinyinNumbered": "hua1"
+    },
+    {
+      "traditional": "花園",
+      "simplified": "花园",
+      "pinyin": "huāyuán",
+      "english": "flower garden",
+      "pinyinNumbered": "hua1yuan2"
+    },
+    {
+      "traditional": "畫",
+      "simplified": "画",
+      "pinyin": "huà",
+      "english": "painting, pictures",
+      "pinyinNumbered": "hua4"
+    },
+    {
+      "traditional": "畫家",
+      "simplified": "画家",
+      "pinyin": "huàjiā",
+      "english": "painterly, creative person, artist, painter, penman, artists",
+      "pinyinNumbered": "hua4jia1"
+    },
+    {
+      "traditional": "畫兒",
+      "simplified": "画儿",
+      "pinyin": "huàr",
+      "english": "picture, drawing, painting",
+      "pinyinNumbered": "hua4r5"
+    },
+    {
+      "traditional": "壞處",
+      "simplified": "坏处",
+      "pinyin": "huài chu",
+      "english": "harm, troubles, CL:個|个[ge4]",
+      "pinyinNumbered": "huai4 chu5"
+    },
+    {
+      "traditional": "壞人",
+      "simplified": "坏人",
+      "pinyin": "huàirén",
+      "english": "hellion, bad person, scoundrel, badman, baddie, villain, malefactor, evildoer",
+      "pinyinNumbered": "huai4ren2"
+    },
+    {
+      "traditional": "歡迎",
+      "simplified": "欢迎",
+      "pinyin": "huānyíng",
+      "english": "invite, greet, take in, receive, welcome, gratulate, embrace, salute",
+      "pinyinNumbered": "huan1ying2"
+    },
+    {
+      "traditional": "換",
+      "simplified": "换",
+      "pinyin": "huàn",
+      "english": "adjourn, barter, exchange, commute, reseat, trade, conversion, convert, change",
+      "pinyinNumbered": "huan4"
+    },
+    {
+      "traditional": "黃",
+      "simplified": "黄",
+      "pinyin": "huáng",
+      "english": "Surname",
+      "pinyinNumbered": "huang2"
+    },
+    {
+      "traditional": "黃色",
+      "simplified": "黄色",
+      "pinyin": "huángsè",
+      "english": "chrome, yellowness, yellow, salacity, or",
+      "pinyinNumbered": "huang2se4"
+    },
+    {
+      "traditional": "回",
+      "simplified": "回",
+      "pinyin": "huí",
+      "english": "return, go back",
+      "pinyinNumbered": "hui2"
+    },
+    {
+      "traditional": "回國",
+      "simplified": "回国",
+      "pinyin": "huíguó",
+      "english": "return to one's country",
+      "pinyinNumbered": "hui2guo2"
+    },
+    {
+      "traditional": "會",
+      "simplified": "会",
+      "pinyin": "huì",
+      "english": "to be able, can, will, to meet",
+      "pinyinNumbered": "hui4"
+    },
+    {
+      "traditional": "活動",
+      "simplified": "活动",
+      "pinyin": "huódòng",
+      "english": "activity, maneuver, behavior",
+      "pinyinNumbered": "huo2dong4"
+    },
+    {
+      "traditional": "或",
+      "simplified": "或",
+      "pinyin": "huò",
+      "english": "conj.: or, either or",
+      "pinyinNumbered": "huo4"
+    },
+    {
+      "traditional": "或者",
+      "simplified": "或者",
+      "pinyin": "huòzhě",
+      "english": "conj.: or, either...or...",
+      "pinyinNumbered": "huo4zhe3"
+    },
+    {
+      "traditional": "機會",
+      "simplified": "机会",
+      "pinyin": "jīhuì",
+      "english": "scouth, occasion, good luck, hap, liberty, fortune, opportunity, chance, joss, hazard, happy chance, probability, luck, scope, room, break, turn, opening",
+      "pinyinNumbered": "ji1hui4"
+    },
+    {
+      "traditional": "雞",
+      "simplified": "鸡",
+      "pinyin": "jī",
+      "english": "capercailzie, Gallus gallus, giblets, chook, horse of the wood, capercaillie, gallinaceous, Tetrao urogallus, sultan, chicken",
+      "pinyinNumbered": "ji1"
+    },
+    {
+      "traditional": "級",
+      "simplified": "级",
+      "pinyin": "jí",
+      "english": "level, rank, grade",
+      "pinyinNumbered": "ji2"
+    },
+    {
+      "traditional": "急",
+      "simplified": "急",
+      "pinyin": "jí",
+      "english": "rapid, fast, violent",
+      "pinyinNumbered": "ji2"
+    },
+    {
+      "traditional": "計劃",
+      "simplified": "计划",
+      "pinyin": "jìhuà",
+      "english": "plan, project, program",
+      "pinyinNumbered": "ji4hua4"
+    },
+    {
+      "traditional": "計算機",
+      "simplified": "计算机",
+      "pinyin": "jì suàn jī",
+      "english": "computer, (Tw) calculator, CL:臺|台[tai2]",
+      "pinyinNumbered": "ji4 suan4 ji1"
+    },
+    {
+      "traditional": "加",
+      "simplified": "加",
+      "pinyin": "jiā",
+      "english": "dramatise, plant, embroider, intercalate, lard, put in, blow up, inflict, deliver, aggrandize, plus, dramatize, increase, augment, embellish, augmentation, confer, append, add, pad, summate",
+      "pinyinNumbered": "jia1"
+    },
+    {
+      "traditional": "加油",
+      "simplified": "加油",
+      "pinyin": "jiāyóu",
+      "english": "gas, lubricate, oil, refuel, gas up, embolden, accelerate, lubrication, fuel, cheer, recreate, hearten, make an extra effort",
+      "pinyinNumbered": "jia1you2"
+    },
+    {
+      "traditional": "家",
+      "simplified": "家",
+      "pinyin": "jiā",
+      "english": "family, household, home, house",
+      "pinyinNumbered": "jia1"
+    },
+    {
+      "traditional": "家庭",
+      "simplified": "家庭",
+      "pinyin": "jiātíng",
+      "english": "hearthstone, background, fireside, establishment, household, hearth, domestic, hearthside, menage, home, family unit, family, house",
+      "pinyinNumbered": "jia1ting2"
+    },
+    {
+      "traditional": "家長",
+      "simplified": "家长",
+      "pinyin": "jiāzhǎng",
+      "english": "masterman, housemaster, graybeard, patriarch, parent of schoolchildren, patriarchal, goodman, patriarchate, paterfamilias, the head of a family, genearch, patriarchy, householder, head of household, the parent or guadian of a child",
+      "pinyinNumbered": "jia1zhang3"
+    },
+    {
+      "traditional": "假",
+      "simplified": "假",
+      "pinyin": "jiǎ",
+      "english": "false, fake, phony, artificial",
+      "pinyinNumbered": "jia3"
+    },
+    {
+      "traditional": "假期",
+      "simplified": "假期",
+      "pinyin": "jiàqí",
+      "english": "season, holiday, leave, period of leave, vacation",
+      "pinyinNumbered": "jia4qi2"
+    },
+    {
+      "traditional": "檢查",
+      "simplified": "检查",
+      "pinyin": "jiǎnchá",
+      "english": "check, inspect, examine",
+      "pinyinNumbered": "jian3cha2"
+    },
+    {
+      "traditional": "見到",
+      "simplified": "见到",
+      "pinyin": "jiàndào",
+      "english": "see, meet, perceive",
+      "pinyinNumbered": "jian4dao4"
+    },
+    {
+      "traditional": "見過",
+      "simplified": "见过",
+      "pinyin": "jiànguò",
+      "english": "See",
+      "pinyinNumbered": "jian4guo4"
+    },
+    {
+      "traditional": "件",
+      "simplified": "件",
+      "pinyin": "jiàn",
+      "english": "correspondence, paper, document, bit, m.[general], single item, letter, piece",
+      "pinyinNumbered": "jian4"
+    },
+    {
+      "traditional": "健康",
+      "simplified": "健康",
+      "pinyin": "jiànkāng",
+      "english": "healthy, sound",
+      "pinyinNumbered": "jian4kang1"
+    },
+    {
+      "traditional": "講",
+      "simplified": "讲",
+      "pinyin": "jiǎng",
+      "english": "discourse, utter, talk, negotiation, make clear, negotiate, parley, pay attention to, speak, syllable, discuss, explain, tell, be particular about, explanation, interpretation, interpret, relate, discussion, stress, mouth, say, remark, verbalize",
+      "pinyinNumbered": "jiang3"
+    },
+    {
+      "traditional": "講話",
+      "simplified": "讲话",
+      "pinyin": "jiǎnghuà",
+      "english": "parley, jaw, turn to, address, talk, speak, say, speak to",
+      "pinyinNumbered": "jiang3hua4"
+    },
+    {
+      "traditional": "交",
+      "simplified": "交",
+      "pinyin": "jiāo",
+      "english": "associate with, make friends, fall in with, mate",
+      "pinyinNumbered": "jiao1"
+    },
+    {
+      "traditional": "交給",
+      "simplified": "交给",
+      "pinyin": "jiāogěi",
+      "english": "relinquish, give away, submit, give to, hand/give to, hand to, give up, reach, hand",
+      "pinyinNumbered": "jiao1gei3"
+    },
+    {
+      "traditional": "交朋友",
+      "simplified": "交朋友",
+      "pinyin": "jiāo péng you",
+      "english": "to make friends, (dialect) to start an affair with sb",
+      "pinyinNumbered": "jiao1 peng2 you5"
+    },
+    {
+      "traditional": "交通",
+      "simplified": "交通",
+      "pinyin": "jiāotōng",
+      "english": "intercourse, commutation, transportation, communication, commuting, traffic, traffic light, liaison man, communications, dealings, liaison",
+      "pinyinNumbered": "jiao1tong1"
+    },
+    {
+      "traditional": "角",
+      "simplified": "角",
+      "pinyin": "jiǎo",
+      "english": "horn, bugle, sth. horn-shaped",
+      "pinyinNumbered": "jiao3"
+    },
+    {
+      "traditional": "角度",
+      "simplified": "角度",
+      "pinyin": "jiǎodù",
+      "english": "aspect, perspective, degree, arcdegree, point of view, angle",
+      "pinyinNumbered": "jiao3du4"
+    },
+    {
+      "traditional": "餃子",
+      "simplified": "饺子",
+      "pinyin": "jiǎo zi",
+      "english": "dumpling, pot-sticker, CL:個|个[ge4],隻|只[zhi1]",
+      "pinyinNumbered": "jiao3 zi5"
+    },
+    {
+      "traditional": "腳",
+      "simplified": "脚",
+      "pinyin": "jiǎo",
+      "english": "foot, leg, base",
+      "pinyinNumbered": "jiao3"
+    },
+    {
+      "traditional": "叫作",
+      "simplified": "叫作",
+      "pinyin": "jiào zuò",
+      "english": "to call, to be called",
+      "pinyinNumbered": "jiao4 zuo4"
+    },
+    {
+      "traditional": "教師",
+      "simplified": "教师",
+      "pinyin": "jiàoshī",
+      "english": "beak, don, school teacher, schoolman, teacher, schoolmaster, preceptor, professor, pedagogue, schoolteacher, coach, master, instructor, educator, preceptorship",
+      "pinyinNumbered": "jiao4shi1"
+    },
+    {
+      "traditional": "教室",
+      "simplified": "教室",
+      "pinyin": "jiàoshì",
+      "english": "classroom, schoolroom",
+      "pinyinNumbered": "jiao4shi4"
+    },
+    {
+      "traditional": "教學",
+      "simplified": "教学",
+      "pinyin": "jiāoxué",
+      "english": "teach and study",
+      "pinyinNumbered": "jiao1xue2"
+    },
+    {
+      "traditional": "教育",
+      "simplified": "教育",
+      "pinyin": "jiàoyū",
+      "english": "education",
+      "pinyinNumbered": "jiao4yu1"
+    },
+    {
+      "traditional": "接",
+      "simplified": "接",
+      "pinyin": "jiē",
+      "english": "to receive, to answer (the phone), to meet or welcome sb, to connect, to catch, to join, to extend, to take one's turn on duty, to take over for sb",
+      "pinyinNumbered": "jie1"
+    },
+    {
+      "traditional": "接到",
+      "simplified": "接到",
+      "pinyin": "jiēdào",
+      "english": "welcome, receive, meet",
+      "pinyinNumbered": "jie1dao4"
+    },
+    {
+      "traditional": "接受",
+      "simplified": "接受",
+      "pinyin": "jiēshòu",
+      "english": "receive (honors, have, receive, acknowledge, sweep up, espouse, etc.), come to grips, adopt, embrace, greet, welcome, hook on, seize on, take up, accede, taken, entertain, latch on, buy, fasten on, swallow, imbibe, accept, receive (honors/etc.), undergo, get to grips, take, adapt, acceptance, thole",
+      "pinyinNumbered": "jie1shou4"
+    },
+    {
+      "traditional": "接下來",
+      "simplified": "接下来",
+      "pinyin": "jiēxiàlái",
+      "english": "next, immediately after",
+      "pinyinNumbered": "jie1xia4lai2"
+    },
+    {
+      "traditional": "接著",
+      "simplified": "接着",
+      "pinyin": "jiēzhe",
+      "english": "next, immediately after",
+      "pinyinNumbered": "jie1zhe5"
+    },
+    {
+      "traditional": "街",
+      "simplified": "街",
+      "pinyin": "jiē",
+      "english": "county fair, fair, place, market, toby, street",
+      "pinyinNumbered": "jie1"
+    },
+    {
+      "traditional": "節",
+      "simplified": "节",
+      "pinyin": "jié",
+      "english": "m.[event]",
+      "pinyinNumbered": "jie2"
+    },
+    {
+      "traditional": "節目",
+      "simplified": "节目",
+      "pinyin": "jiémù",
+      "english": "item, item (on program), programme, act, telecast, number, program",
+      "pinyinNumbered": "jie2mu4"
+    },
+    {
+      "traditional": "節日",
+      "simplified": "节日",
+      "pinyin": "jiérì",
+      "english": "festival, holiday",
+      "pinyinNumbered": "jie2ri4"
+    },
+    {
+      "traditional": "結果",
+      "simplified": "结果",
+      "pinyin": "jiéguǒ",
+      "english": "result, outcome, consequence",
+      "pinyinNumbered": "jie2guo3"
+    },
+    {
+      "traditional": "借",
+      "simplified": "借",
+      "pinyin": "jiè",
+      "english": "lend",
+      "pinyinNumbered": "jie4"
+    },
+    {
+      "traditional": "斤",
+      "simplified": "斤",
+      "pinyin": "jīn",
+      "english": "m.[standard]",
+      "pinyinNumbered": "jin1"
+    },
+    {
+      "traditional": "今後",
+      "simplified": "今后",
+      "pinyin": "jīn hoù",
+      "english": "hereafter, henceforth, in the future, from now on",
+      "pinyinNumbered": "jin1 hou4"
+    },
+    {
+      "traditional": "進入",
+      "simplified": "进入",
+      "pinyin": "jìnrù",
+      "english": "go into, get in, debouch, get in, go into, move into, come into, pass, step in, lapse, get into, set in, go in, get into, kick in, penetrate, intromission, pierce, come in, come in, enter, entry, sink, impenetrate",
+      "pinyinNumbered": "jin4ru4"
+    },
+    {
+      "traditional": "進行",
+      "simplified": "进行",
+      "pinyin": "jìnxíng",
+      "english": "be in progress, go on, carry on/out",
+      "pinyinNumbered": "jin4xing2"
+    },
+    {
+      "traditional": "近",
+      "simplified": "近",
+      "pinyin": "jìn",
+      "english": "almost",
+      "pinyinNumbered": "jin4"
+    },
+    {
+      "traditional": "經常",
+      "simplified": "经常",
+      "pinyin": "jīngcháng",
+      "english": "everyday, daily, alway, often, a great deal, frequently, sempre, much, regularly, constantly, evermore, day-to-day",
+      "pinyinNumbered": "jing1chang2"
+    },
+    {
+      "traditional": "經過",
+      "simplified": "经过",
+      "pinyin": "jīngguò",
+      "english": "pass, go through, undergo",
+      "pinyinNumbered": "jing1guo4"
+    },
+    {
+      "traditional": "經理",
+      "simplified": "经理",
+      "pinyin": "jīnglǐ",
+      "english": "amaldar, intendant, manager, steward, executive, managing director, exec, director, skipper, syndic, executive director",
+      "pinyinNumbered": "jing1li3"
+    },
+    {
+      "traditional": "酒",
+      "simplified": "酒",
+      "pinyin": "jiǔ",
+      "english": "libation, bracer, plonk, wine, tipple, poison, pottle, spirits, creature, vin, cup, drink, hooch, arrack, medicine, alcohol, bottle, hootch, alcoholic drink, rum, bibble, potation, belly-wash, alcoholic beverage, Bacchus, booze, liquor, juice, fortifier, inebriant, lotion, intoxicant",
+      "pinyinNumbered": "jiu3"
+    },
+    {
+      "traditional": "酒店",
+      "simplified": "酒店",
+      "pinyin": "jiǔdiàn",
+      "english": "wineshop, public house",
+      "pinyinNumbered": "jiu3dian4"
+    },
+    {
+      "traditional": "就要",
+      "simplified": "就要",
+      "pinyin": "jiù yào",
+      "english": "will, shall, to be going to",
+      "pinyinNumbered": "jiu4 yao4"
+    },
+    {
+      "traditional": "舉",
+      "simplified": "举",
+      "pinyin": "jǔ",
+      "english": "lift, raise, hold up, cite, propose",
+      "pinyinNumbered": "ju3"
+    },
+    {
+      "traditional": "舉手",
+      "simplified": "举手",
+      "pinyin": "jǔshǒu",
+      "english": "raise one's hand, haul off, raise one's hand(s), show, put up one's hand",
+      "pinyinNumbered": "ju3shou3"
+    },
+    {
+      "traditional": "舉行",
+      "simplified": "举行",
+      "pinyin": "jǔxíng",
+      "english": "hold (meeting/etc.)",
+      "pinyinNumbered": "ju3xing2"
+    },
+    {
+      "traditional": "句",
+      "simplified": "句",
+      "pinyin": "jù",
+      "english": "sentence, m.[general]",
+      "pinyinNumbered": "ju4"
+    },
+    {
+      "traditional": "句子",
+      "simplified": "句子",
+      "pinyin": "jùzi",
+      "english": "sentence",
+      "pinyinNumbered": "ju4zi5"
+    },
+    {
+      "traditional": "卡",
+      "simplified": "卡",
+      "pinyin": "kǎ, qiǎ",
+      "english": "to stop, to block, card, CL:張|张[zhang1],片[pian4], calorie, cassette, (computing) (coll.) slow, to block, to be stuck, to be wedged, customs station, a clip, a fastener, a checkpost, Taiwan pr. [ka3]",
+      "pinyinNumbered": "ka3, 5qia3"
+    },
+    {
+      "traditional": "開機",
+      "simplified": "开机",
+      "pinyin": "kāi jī",
+      "english": "to start an engine, to boot up (a computer), to press Ctrl-Alt-Delete, to begin shooting a film or TV show",
+      "pinyinNumbered": "kai1 ji1"
+    },
+    {
+      "traditional": "開心",
+      "simplified": "开心",
+      "pinyin": "kāixīn",
+      "english": "feel happy, rejoice",
+      "pinyinNumbered": "kai1xin1"
+    },
+    {
+      "traditional": "開學",
+      "simplified": "开学",
+      "pinyin": "kāixué",
+      "english": "start school, begin term",
+      "pinyinNumbered": "kai1xue2"
+    },
+    {
+      "traditional": "看法",
+      "simplified": "看法",
+      "pinyin": "kànfǎ",
+      "english": "side, view, mentality, idea, outlook, a way of looking at a thing, opinion, thought, sight, standpoint, hypothesis, attitude, hobbyhorse, viewpoint, possibility, theory, slant, pronouncement, way of looking at sth., thinking, supposition, supposal",
+      "pinyinNumbered": "kan4fa3"
+    },
+    {
+      "traditional": "考生",
+      "simplified": "考生",
+      "pinyin": "kǎoshēng",
+      "english": "candidate for an entrance examination, examinee",
+      "pinyinNumbered": "kao3sheng1"
+    },
+    {
+      "traditional": "靠",
+      "simplified": "靠",
+      "pinyin": "kào",
+      "english": "depend/rely on",
+      "pinyinNumbered": "kao4"
+    },
+    {
+      "traditional": "科",
+      "simplified": "科",
+      "pinyin": "kē",
+      "english": "department, section, rules, laws, a branch of academic or vocational study, stage directions, (animal) family, a division or subdivision of an administrative uni, family, branch of study, faculty, administrative section",
+      "pinyinNumbered": "ke1"
+    },
+    {
+      "traditional": "科學",
+      "simplified": "科学",
+      "pinyin": "kēxué",
+      "english": "ology, scientific, science, scientific knowledge",
+      "pinyinNumbered": "ke1xue2"
+    },
+    {
+      "traditional": "可愛",
+      "simplified": "可爱",
+      "pinyin": "kěài",
+      "english": "lovable, likeable, lovely",
+      "pinyinNumbered": "ke3ai4"
+    },
+    {
+      "traditional": "可能",
+      "simplified": "可能",
+      "pinyin": "kěnéng",
+      "english": "probably, maybe",
+      "pinyinNumbered": "ke3neng2"
+    },
+    {
+      "traditional": "可怕",
+      "simplified": "可怕",
+      "pinyin": "kěpà",
+      "english": "fearful, terrible",
+      "pinyinNumbered": "ke3pa4"
+    },
+    {
+      "traditional": "可是",
+      "simplified": "可是",
+      "pinyin": "kěshì",
+      "english": "conj.: but, yet, however",
+      "pinyinNumbered": "ke3shi4"
+    },
+    {
+      "traditional": "可以",
+      "simplified": "可以",
+      "pinyin": "kěyǐ",
+      "english": "can, may",
+      "pinyinNumbered": "ke3yi3"
+    },
+    {
+      "traditional": "尅",
+      "simplified": "克",
+      "pinyin": "kè, kēi",
+      "english": "to be able to, to subdue, to restrain, to overcome, gram, variant of 剋|克[ke4], Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God, to scold, to beat",
+      "pinyinNumbered": "ke4, 5kei1"
+    },
+    {
+      "traditional": "刻",
+      "simplified": "刻",
+      "pinyin": "kè",
+      "english": "m.[standard]",
+      "pinyinNumbered": "ke4"
+    },
+    {
+      "traditional": "客人",
+      "simplified": "客人",
+      "pinyin": "kèrén",
+      "english": "stranger, guest, caller, client, visitant, invitee, company, visitor",
+      "pinyinNumbered": "ke4ren2"
+    },
+    {
+      "traditional": "課堂",
+      "simplified": "课堂",
+      "pinyin": "kè táng",
+      "english": "classroom, CL:間|间[jian1]",
+      "pinyinNumbered": "ke4 tang2"
+    },
+    {
+      "traditional": "空氣",
+      "simplified": "空气",
+      "pinyin": "kōngqì",
+      "english": "air, airspace, atmosphere, aerial, deflector, atmospherics",
+      "pinyinNumbered": "kong1qi4"
+    },
+    {
+      "traditional": "哭",
+      "simplified": "哭",
+      "pinyin": "kū",
+      "english": "greet, cry, weep",
+      "pinyinNumbered": "ku1"
+    },
+    {
+      "traditional": "快餐",
+      "simplified": "快餐",
+      "pinyin": "kuài cān",
+      "english": "fast food, snack, quick meal",
+      "pinyinNumbered": "kuai4 can1"
+    },
+    {
+      "traditional": "快點兒",
+      "simplified": "快点儿",
+      "pinyin": "kuàidiǎnr",
+      "english": "to do sth more quickly, erhua variant of 快點|快点[kuai4 dian3]",
+      "pinyinNumbered": "kuai4dian3r5"
+    },
+    {
+      "traditional": "快樂",
+      "simplified": "快乐",
+      "pinyin": "kuàilè",
+      "english": "happy, cheerful",
+      "pinyinNumbered": "kuai4le4"
+    },
+    {
+      "traditional": "快要",
+      "simplified": "快要",
+      "pinyin": "kuài yào",
+      "english": "almost, nearly, almost all",
+      "pinyinNumbered": "kuai4 yao4"
+    },
+    {
+      "traditional": "筷子",
+      "simplified": "筷子",
+      "pinyin": "kuài zi",
+      "english": "chopsticks, CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]",
+      "pinyinNumbered": "kuai4 zi5"
+    },
+    {
+      "traditional": "拉",
+      "simplified": "拉",
+      "pinyin": "lā",
+      "english": "slit, press-gang, help, solicit, lend a helping hand, canvass, draw, zoom, transport by vehicle, pull, release, press, cut, schlep, play (bowed instruments), tote, tug, gash, tow, bend, snake, schlepp, move (troops), solicitation, haul, chat, solicit (business), give a helping hand, drag out, force, play, slash, drum up, claw, implicate, overstretch, empty the bowels, drag, trail, drag",
+      "pinyinNumbered": "la1"
+    },
+    {
+      "traditional": "來自",
+      "simplified": "来自",
+      "pinyin": "láizì",
+      "english": "come from, originate from, come, stem/originate from, attach to, stem, come/stem/originate from, hail",
+      "pinyinNumbered": "lai2zi4"
+    },
+    {
+      "traditional": "藍",
+      "simplified": "蓝",
+      "pinyin": "lán",
+      "english": "blue",
+      "pinyinNumbered": "lan2"
+    },
+    {
+      "traditional": "藍色",
+      "simplified": "蓝色",
+      "pinyin": "lánsè",
+      "english": "blue, blue (color), blueness",
+      "pinyinNumbered": "lan2se4"
+    },
+    {
+      "traditional": "籃球",
+      "simplified": "篮球",
+      "pinyin": "lánqiú",
+      "english": "basketball",
+      "pinyinNumbered": "lan2qiu2"
+    },
+    {
+      "traditional": "老",
+      "simplified": "老",
+      "pinyin": "lǎo",
+      "english": "old, aged, of long standing, outdated, tough, overgrown, dark (of colors)",
+      "pinyinNumbered": "lao3"
+    },
+    {
+      "traditional": "老年",
+      "simplified": "老年",
+      "pinyin": "lǎonián",
+      "english": "senescence, caducity, senility, old age, agedness, hoariness, age, old age",
+      "pinyinNumbered": "lao3nian2"
+    },
+    {
+      "traditional": "老朋友",
+      "simplified": "老朋友",
+      "pinyin": "lǎo péng you",
+      "english": "old friend, (slang) period, menstruation",
+      "pinyinNumbered": "lao3 peng2 you5"
+    },
+    {
+      "traditional": "老是",
+      "simplified": "老是",
+      "pinyin": "lǎoshì",
+      "english": "always",
+      "pinyinNumbered": "lao3shi4"
+    },
+    {
+      "traditional": "離",
+      "simplified": "离",
+      "pinyin": "lí",
+      "english": "distant/apart from",
+      "pinyinNumbered": "li2"
+    },
+    {
+      "traditional": "離開",
+      "simplified": "离开",
+      "pinyin": "líkāi",
+      "english": "leave, depart/deviate from",
+      "pinyinNumbered": "li2kai1"
+    },
+    {
+      "traditional": "禮物",
+      "simplified": "礼物",
+      "pinyin": "lǐwù",
+      "english": "tribute, giving, proffer, gift, compliment, box, benefice, acknowledgment, present, souvenir",
+      "pinyinNumbered": "li3wu4"
+    },
+    {
+      "traditional": "裡頭",
+      "simplified": "里头",
+      "pinyin": "lǐtóu",
+      "english": "inside, interior",
+      "pinyinNumbered": "li3tou2"
+    },
+    {
+      "traditional": "理想",
+      "simplified": "理想",
+      "pinyin": "lǐxiǎng",
+      "english": "ideal",
+      "pinyinNumbered": "li3xiang3"
+    },
+    {
+      "traditional": "例如",
+      "simplified": "例如",
+      "pinyin": "lìrú",
+      "english": "for instance/example, e.g., such as",
+      "pinyinNumbered": "li4ru2"
+    },
+    {
+      "traditional": "例子",
+      "simplified": "例子",
+      "pinyin": "lìzi",
+      "english": "exemplification, example, representative, illustration, instance, piece, case",
+      "pinyinNumbered": "li4zi5"
+    },
+    {
+      "traditional": "臉",
+      "simplified": "脸",
+      "pinyin": "liǎn",
+      "english": "map, mug, kisser, puss, visage, snoot, frontispiece, pan, smiler, mazzard, mush, facial, countenance, phiz, figurehead, face, physiognomy, front, human face",
+      "pinyinNumbered": "lian3"
+    },
+    {
+      "traditional": "練",
+      "simplified": "练",
+      "pinyin": "liàn",
+      "english": "practice, exercise, boil and scour raw silk, educate, reeducate, nurture, coach, hone, drill, school, lunge, break, breed, train",
+      "pinyinNumbered": "lian4"
+    },
+    {
+      "traditional": "練習",
+      "simplified": "练习",
+      "pinyin": "liànxí",
+      "english": "practice, exercise",
+      "pinyinNumbered": "lian4xi2"
+    },
+    {
+      "traditional": "涼",
+      "simplified": "凉",
+      "pinyin": "liáng",
+      "english": "cool, cold, discouraged, disappointed",
+      "pinyinNumbered": "liang2"
+    },
+    {
+      "traditional": "涼快",
+      "simplified": "凉快",
+      "pinyin": "liáng kuai",
+      "english": "nice and cold, pleasantly cool",
+      "pinyinNumbered": "liang2 kuai5"
+    },
+    {
+      "traditional": "兩",
+      "simplified": "两",
+      "pinyin": "liǎng",
+      "english": "det.: two, both (sides), either (side), a few, some",
+      "pinyinNumbered": "liang3"
+    },
+    {
+      "traditional": "亮",
+      "simplified": "亮",
+      "pinyin": "liàng",
+      "english": "bright, light, loud and clear",
+      "pinyinNumbered": "liang4"
+    },
+    {
+      "traditional": "輛",
+      "simplified": "辆",
+      "pinyin": "liàng",
+      "english": "m.[general]",
+      "pinyinNumbered": "liang4"
+    },
+    {
+      "traditional": "零下",
+      "simplified": "零下",
+      "pinyin": "líng xià",
+      "english": "below zero",
+      "pinyinNumbered": "ling2 xia4"
+    },
+    {
+      "traditional": "留",
+      "simplified": "留",
+      "pinyin": "liú",
+      "english": "continue, stay, keep, leave behind, leave, grow, accept, (let) grow, leave (sth.), let grow, ask ... to stay, take, bide, wear, study in a foreign country, save, reserve, reservation, ask sb. to stay, remain",
+      "pinyinNumbered": "liu2"
+    },
+    {
+      "traditional": "留下",
+      "simplified": "留下",
+      "pinyin": "liúxià",
+      "english": "stay, leave behind, leave, allocate, devote, entail, stick, stay behind, leave behind, stay put, stick around, remain",
+      "pinyinNumbered": "liu2xia4"
+    },
+    {
+      "traditional": "留學生",
+      "simplified": "留学生",
+      "pinyin": "liúxuéshēng",
+      "english": "student studying abroad, returned student",
+      "pinyinNumbered": "liu2xue2sheng1"
+    },
+    {
+      "traditional": "流",
+      "simplified": "流",
+      "pinyin": "liú",
+      "english": "spread, circulate",
+      "pinyinNumbered": "liu2"
+    },
+    {
+      "traditional": "流利",
+      "simplified": "流利",
+      "pinyin": "liú lì",
+      "english": "fluent",
+      "pinyinNumbered": "liu2 li4"
+    },
+    {
+      "traditional": "流行",
+      "simplified": "流行",
+      "pinyin": "liúxíng",
+      "english": "prevalent, popular, fashionable, in vogue, spread, rage (of contagious disease)",
+      "pinyinNumbered": "liu2xing2"
+    },
+    {
+      "traditional": "路邊",
+      "simplified": "路边",
+      "pinyin": "lù biān",
+      "english": "curb, roadside, wayside",
+      "pinyinNumbered": "lu4 bian1"
+    },
+    {
+      "traditional": "旅客",
+      "simplified": "旅客",
+      "pinyin": "lǔkè",
+      "english": "journeyer, guest, hotel guest, traveler, traffic, wayfarer, viator, rider, traveller, passer, passenger",
+      "pinyinNumbered": "lu3ke4"
+    },
+    {
+      "traditional": "旅行",
+      "simplified": "旅行",
+      "pinyin": "lǔxíng",
+      "english": "travel, journey, tour",
+      "pinyinNumbered": "lu3xing2"
+    },
+    {
+      "traditional": "旅遊",
+      "simplified": "旅游",
+      "pinyin": "lǚ yoú",
+      "english": "trip, journey, tourism, travel, tour, to travel",
+      "pinyinNumbered": "lü3 you2"
+    },
+    {
+      "traditional": "綠",
+      "simplified": "绿",
+      "pinyin": "lù",
+      "english": "green",
+      "pinyinNumbered": "lu4"
+    },
+    {
+      "traditional": "綠色",
+      "simplified": "绿色",
+      "pinyin": "lùsè",
+      "english": "verdure, green, greenness, green color, verdancy, bice, virescence, vert, pistachio, viridity",
+      "pinyinNumbered": "lu4se4"
+    },
+    {
+      "traditional": "賣",
+      "simplified": "卖",
+      "pinyin": "mài",
+      "english": "bring, parade, prostitute, make living at, go, sell out, show off, negotiate, exert to the utmost, tout, not spare, deal, betray, make living by, at, sell, make living by/at, betrayal, trade, fetch, market, bring in",
+      "pinyinNumbered": "mai4"
+    },
+    {
+      "traditional": "滿",
+      "simplified": "满",
+      "pinyin": "mǎn",
+      "english": "det.: entirely, wholly",
+      "pinyinNumbered": "man3"
+    },
+    {
+      "traditional": "滿意",
+      "simplified": "满意",
+      "pinyin": "mǎnyì",
+      "english": "satisfy, well-pleasing, pleased, satisfied",
+      "pinyinNumbered": "man3yi4"
+    },
+    {
+      "traditional": "貓",
+      "simplified": "猫",
+      "pinyin": "māo",
+      "english": "pussycat, puss, malkin, cat, kitty, tabby, felid, feline, true cat, pussy",
+      "pinyinNumbered": "mao1"
+    },
+    {
+      "traditional": "米",
+      "simplified": "米",
+      "pinyin": "mǐ",
+      "english": "rice, shelled/husked seed",
+      "pinyinNumbered": "mi3"
+    },
+    {
+      "traditional": "面",
+      "simplified": "面",
+      "pinyin": "miàn",
+      "english": "m.[general]",
+      "pinyinNumbered": "mian4"
+    },
+    {
+      "traditional": "面前",
+      "simplified": "面前",
+      "pinyin": "miànqián",
+      "english": "in front, in front of, in the front of, in the face of, front, presence, before",
+      "pinyinNumbered": "mian4qian2"
+    },
+    {
+      "traditional": "名",
+      "simplified": "名",
+      "pinyin": "míng",
+      "english": "m.[general]",
+      "pinyinNumbered": "ming2"
+    },
+    {
+      "traditional": "名稱",
+      "simplified": "名称",
+      "pinyin": "míngchēng",
+      "english": "title, denotation, compellation, appellative, designation, name, denomination, calling, rubric, appellation",
+      "pinyinNumbered": "ming2cheng1"
+    },
+    {
+      "traditional": "名單",
+      "simplified": "名单",
+      "pinyin": "míngdān",
+      "english": "checklist, register, registry, list, roll, listing, roster, name list",
+      "pinyinNumbered": "ming2dan1"
+    },
+    {
+      "traditional": "明星",
+      "simplified": "明星",
+      "pinyin": "míngxīng",
+      "english": "headliner, lucida, (movie/etc.) star, impersonator, (movie, famous performer, stardom, Venus, star, etc.) star",
+      "pinyinNumbered": "ming2xing1"
+    },
+    {
+      "traditional": "目的",
+      "simplified": "目的",
+      "pinyin": "mùdì",
+      "english": "view, pretence, objective, goal, purport, intention, bourn, object, motive, motivation, meaning, aim, end point, hent, target, scope, sense of purpose, errand, purposefulness, sake, function, end, purpose, quaesitum, intent",
+      "pinyinNumbered": "mu4di4"
+    },
+    {
+      "traditional": "拿出",
+      "simplified": "拿出",
+      "pinyin": "náchū",
+      "english": "ante, produce, take out, get out, pose, take out, bring forth, take away, bring out",
+      "pinyinNumbered": "na2chu1"
+    },
+    {
+      "traditional": "拿到",
+      "simplified": "拿到",
+      "pinyin": "nádào",
+      "english": "take, get hold of, get",
+      "pinyinNumbered": "na2dao4"
+    },
+    {
+      "traditional": "那",
+      "simplified": "那",
+      "pinyin": "nà",
+      "english": "det.: that",
+      "pinyinNumbered": "na4"
+    },
+    {
+      "traditional": "那會兒",
+      "simplified": "那会儿",
+      "pinyin": "nàhuìér",
+      "english": "Then",
+      "pinyinNumbered": "na4hui4er2"
+    },
+    {
+      "traditional": "那麼",
+      "simplified": "那么",
+      "pinyin": "nàmo",
+      "english": "so",
+      "pinyinNumbered": "na4mo5"
+    },
+    {
+      "traditional": "那時候",
+      "simplified": "那时候",
+      "pinyin": "nà shí hou",
+      "english": "at that time",
+      "pinyinNumbered": "na4 shi2 hou5"
+    },
+    {
+      "traditional": "那樣",
+      "simplified": "那样",
+      "pinyin": "nàyàng",
+      "english": "that kind of, like that",
+      "pinyinNumbered": "na4yang4"
+    },
+    {
+      "traditional": "南方",
+      "simplified": "南方",
+      "pinyin": "nánfāng",
+      "english": "S, due south, the southern part of the country, South, south, southern part of country, the South, southern",
+      "pinyinNumbered": "nan2fang1"
+    },
+    {
+      "traditional": "難過",
+      "simplified": "难过",
+      "pinyin": "nánguò",
+      "english": "uncomfortable, feel bad, feel sorry, have hard time, bad, sad, have a hard time, be grieved, sorry",
+      "pinyinNumbered": "nan2guo4"
+    },
+    {
+      "traditional": "難看",
+      "simplified": "难看",
+      "pinyin": "nán kàn",
+      "english": "ugly, unsightly",
+      "pinyinNumbered": "nan2 kan4"
+    },
+    {
+      "traditional": "難受",
+      "simplified": "难受",
+      "pinyin": "nán shoù",
+      "english": "to feel unwell, to suffer pain, to be difficult to bear",
+      "pinyinNumbered": "nan2 shou4"
+    },
+    {
+      "traditional": "難題",
+      "simplified": "难题",
+      "pinyin": "nántí",
+      "english": "problem, Gordian knot, grief, sticker, question, enigma, difficult problem, puzzler, spinosity, stickler, a hard nut to crack, puzzle, toughie, poser, difficulty, crux, nut, challenge, tickler, conundrum, knot, hump, knottiness, stinker, puzzlement, teaser, stumper, twister",
+      "pinyinNumbered": "nan2ti2"
+    },
+    {
+      "traditional": "難聽",
+      "simplified": "难听",
+      "pinyin": "nán tīng",
+      "english": "unpleasant to hear, coarse, vulgar, offensive, shameful",
+      "pinyinNumbered": "nan2 ting1"
+    },
+    {
+      "traditional": "能夠",
+      "simplified": "能够",
+      "pinyin": "nénggòu",
+      "english": "can, able, would, may",
+      "pinyinNumbered": "neng2gou4"
+    },
+    {
+      "traditional": "年級",
+      "simplified": "年级",
+      "pinyin": "nián jí",
+      "english": "grade, year (in school, college etc), CL:個|个[ge4]",
+      "pinyinNumbered": "nian2 ji2"
+    },
+    {
+      "traditional": "年輕",
+      "simplified": "年轻",
+      "pinyin": "niánqīng",
+      "english": "junior, young",
+      "pinyinNumbered": "nian2qing1"
+    },
+    {
+      "traditional": "鳥",
+      "simplified": "鸟",
+      "pinyin": "niǎo",
+      "english": "beak, caprimulgiform bird, jay, carinate bird, birdie, bird, carinate, chaffinch, flying bird, fowl",
+      "pinyinNumbered": "niao3"
+    },
+    {
+      "traditional": "弄",
+      "simplified": "弄",
+      "pinyin": "nòng",
+      "english": "play with, make, do, handle, engage in, obtain, get, fetch, play tricks",
+      "pinyinNumbered": "nong4"
+    },
+    {
+      "traditional": "努力",
+      "simplified": "努力",
+      "pinyin": "nǔlì",
+      "english": "make great effort, try hard",
+      "pinyinNumbered": "nu3li4"
+    },
+    {
+      "traditional": "爬",
+      "simplified": "爬",
+      "pinyin": "pá",
+      "english": "swarm, creep, shin, grabble, crawl, climb, go up, trail, climb up, mount, clamber, scramble",
+      "pinyinNumbered": "pa2"
+    },
+    {
+      "traditional": "爬山",
+      "simplified": "爬山",
+      "pinyin": "páshān",
+      "english": "mountaineer, climb mountain, climb",
+      "pinyinNumbered": "pa2shan1"
+    },
+    {
+      "traditional": "怕",
+      "simplified": "怕",
+      "pinyin": "pà",
+      "english": "I'm afraid, dread, funk, I suppose, be afraid of, fear",
+      "pinyinNumbered": "pa4"
+    },
+    {
+      "traditional": "排",
+      "simplified": "排",
+      "pinyin": "pái",
+      "english": "stand in line, arrange, put in order, sequence",
+      "pinyinNumbered": "pai2"
+    },
+    {
+      "traditional": "排隊",
+      "simplified": "排队",
+      "pinyin": "páiduì",
+      "english": "stand in line, queue",
+      "pinyinNumbered": "pai2dui4"
+    },
+    {
+      "traditional": "排球",
+      "simplified": "排球",
+      "pinyin": "páiqiú",
+      "english": "volleyball",
+      "pinyinNumbered": "pai2qiu2"
+    },
+    {
+      "traditional": "碰",
+      "simplified": "碰",
+      "pinyin": "pèng",
+      "english": "explore, stub, paw, encounter, knock against, partake, run into, take one's chance, knock, disturb, touch, meet, bump",
+      "pinyinNumbered": "peng4"
+    },
+    {
+      "traditional": "碰到",
+      "simplified": "碰到",
+      "pinyin": "pèngdào",
+      "english": "come across, run into, encounter, come across, run into, touch, run across, meet",
+      "pinyinNumbered": "peng4dao4"
+    },
+    {
+      "traditional": "碰見",
+      "simplified": "碰见",
+      "pinyin": "pèng jiàn",
+      "english": "to run into, to meet (unexpectedly), to bump into",
+      "pinyinNumbered": "peng4 jian4"
+    },
+    {
+      "traditional": "篇",
+      "simplified": "篇",
+      "pinyin": "piān",
+      "english": "m.[general]",
+      "pinyinNumbered": "pian1"
+    },
+    {
+      "traditional": "便宜",
+      "simplified": "便宜",
+      "pinyin": "piányí",
+      "english": "cheap",
+      "pinyinNumbered": "pian2yi2"
+    },
+    {
+      "traditional": "片",
+      "simplified": "片",
+      "pinyin": "piàn",
+      "english": "m.[general]",
+      "pinyinNumbered": "pian4"
+    },
+    {
+      "traditional": "漂亮",
+      "simplified": "漂亮",
+      "pinyin": "piàoliàng",
+      "english": "posh, handsome, brilliant, remarkable, splendid, beautiful, smart",
+      "pinyinNumbered": "piao4liang4"
+    },
+    {
+      "traditional": "平",
+      "simplified": "平",
+      "pinyin": "píng",
+      "english": "flat, level, even, ordinary, common, uniform, safe and sound, peaceful, calm, fair, just, objective",
+      "pinyinNumbered": "ping2"
+    },
+    {
+      "traditional": "平安",
+      "simplified": "平安",
+      "pinyin": "píngān",
+      "english": "safe and sound, quiet and stable",
+      "pinyinNumbered": "pin2gan1"
+    },
+    {
+      "traditional": "平常",
+      "simplified": "平常",
+      "pinyin": "píngcháng",
+      "english": "ordinary, common",
+      "pinyinNumbered": "ping2chang2"
+    },
+    {
+      "traditional": "平等",
+      "simplified": "平等",
+      "pinyin": "píngděng",
+      "english": "equal",
+      "pinyinNumbered": "ping2deng3"
+    },
+    {
+      "traditional": "平時",
+      "simplified": "平时",
+      "pinyin": "píng shí",
+      "english": "ordinarily, in normal times, in peacetime",
+      "pinyinNumbered": "ping2 shi2"
+    },
+    {
+      "traditional": "瓶",
+      "simplified": "瓶",
+      "pinyin": "píng",
+      "english": "cruse, flask, vase, bottle, ninepin, jug, jar, pot, ampulla, m.[container]",
+      "pinyinNumbered": "ping2"
+    },
+    {
+      "traditional": "瓶子",
+      "simplified": "瓶子",
+      "pinyin": "píng zi",
+      "english": "bottle, CL:個|个[ge4]",
+      "pinyinNumbered": "ping2 zi5"
+    },
+    {
+      "traditional": "普通",
+      "simplified": "普通",
+      "pinyin": "pǔtōng",
+      "english": "ordinary, common, average",
+      "pinyinNumbered": "pu3tong1"
+    },
+    {
+      "traditional": "普通話",
+      "simplified": "普通话",
+      "pinyin": "pǔ tōng huà",
+      "english": "Mandarin (common language), Putonghua (common speech of the Chinese language), ordinary speech",
+      "pinyinNumbered": "pu3 tong1 hua4"
+    },
+    {
+      "traditional": "其他",
+      "simplified": "其他",
+      "pinyin": "qítā",
+      "english": "det.: others, the rest, other, else",
+      "pinyinNumbered": "qi2ta1"
+    },
+    {
+      "traditional": "其中",
+      "simplified": "其中",
+      "pinyin": "qízhōng",
+      "english": "among, of them, in it, among them, which, them, det.: it, in, in which",
+      "pinyinNumbered": "qi2zhong1"
+    },
+    {
+      "traditional": "騎",
+      "simplified": "骑",
+      "pinyin": "qí",
+      "english": "ride/sit astride, ride astride, override, get onto, sit on the back of, sit, stride, ride on, ride, mount, pedal, sit astride, bestraddle",
+      "pinyinNumbered": "qi2"
+    },
+    {
+      "traditional": "騎車",
+      "simplified": "骑车",
+      "pinyin": "qí chē",
+      "english": "to cycle",
+      "pinyinNumbered": "qi2 che1"
+    },
+    {
+      "traditional": "起飛",
+      "simplified": "起飞",
+      "pinyin": "qǐfēi",
+      "english": "take off (of planes/etc.)",
+      "pinyinNumbered": "qi3fei1"
+    },
+    {
+      "traditional": "氣",
+      "simplified": "气",
+      "pinyin": "qì",
+      "english": "air, gas, smell, atmosphere, spirit",
+      "pinyinNumbered": "qi4"
+    },
+    {
+      "traditional": "氣溫",
+      "simplified": "气温",
+      "pinyin": "qìwēn",
+      "english": "atmospheric temperature, mercury, temperature, air temperature",
+      "pinyinNumbered": "qi4wen1"
+    },
+    {
+      "traditional": "千",
+      "simplified": "千",
+      "pinyin": "qiān",
+      "english": "det.: thousand",
+      "pinyinNumbered": "qian1"
+    },
+    {
+      "traditional": "千克",
+      "simplified": "千克",
+      "pinyin": "qiān kè",
+      "english": "kilogram",
+      "pinyinNumbered": "qian1 ke4"
+    },
+    {
+      "traditional": "前年",
+      "simplified": "前年",
+      "pinyin": "qián nián",
+      "english": "the year before last",
+      "pinyinNumbered": "qian2 nian2"
+    },
+    {
+      "traditional": "牆",
+      "simplified": "墙",
+      "pinyin": "qiáng",
+      "english": "wall",
+      "pinyinNumbered": "qiang2"
+    },
+    {
+      "traditional": "青年",
+      "simplified": "青年",
+      "pinyin": "qīngnián",
+      "english": "young people, adolescent, youngster, springal, boy, youth, youths, stripling, young, hobbledehoy, younker",
+      "pinyinNumbered": "qing1nian2"
+    },
+    {
+      "traditional": "青少年",
+      "simplified": "青少年",
+      "pinyin": "qīngshàonián",
+      "english": "adolescent, stilyaga, teens, young person, teenager, teenagers, young people and teenagers, youths, youth, stripling, hobbledehoy, youngsters, younker",
+      "pinyinNumbered": "qing1shao4nian2"
+    },
+    {
+      "traditional": "輕",
+      "simplified": "轻",
+      "pinyin": "qīng",
+      "english": "light, agile, alert, easy, simple, rash, reckless, unimportant, frivolous, slight, neglect",
+      "pinyinNumbered": "qing1"
+    },
+    {
+      "traditional": "清楚",
+      "simplified": "清楚",
+      "pinyin": "qīngchǔ",
+      "english": "clear",
+      "pinyinNumbered": "qing1chu3"
+    },
+    {
+      "traditional": "晴",
+      "simplified": "晴",
+      "pinyin": "qíng",
+      "english": "clear, fine (weather)",
+      "pinyinNumbered": "qing2"
+    },
+    {
+      "traditional": "晴天",
+      "simplified": "晴天",
+      "pinyin": "qíng tiān",
+      "english": "clear sky, sunny day",
+      "pinyinNumbered": "qing2 tian1"
+    },
+    {
+      "traditional": "請客",
+      "simplified": "请客",
+      "pinyin": "qǐng kè",
+      "english": "to give a dinner party, to entertain guests, to invite to dinner",
+      "pinyinNumbered": "qing3 ke4"
+    },
+    {
+      "traditional": "請求",
+      "simplified": "请求",
+      "pinyin": "qǐngqiú",
+      "english": "ask, request, entreat",
+      "pinyinNumbered": "qing3qiu2"
+    },
+    {
+      "traditional": "秋天",
+      "simplified": "秋天",
+      "pinyin": "qiū tiān",
+      "english": "autumn, CL:個|个[ge4]",
+      "pinyinNumbered": "qiu1 tian1"
+    },
+    {
+      "traditional": "求",
+      "simplified": "求",
+      "pinyin": "qiú",
+      "english": "seek, try, strive for",
+      "pinyinNumbered": "qiu2"
+    },
+    {
+      "traditional": "球場",
+      "simplified": "球场",
+      "pinyin": "qiúchǎng",
+      "english": "playing field, gridiron, court, ball field, field, pitch, course, park, ballpark",
+      "pinyinNumbered": "qiu2chang3"
+    },
+    {
+      "traditional": "球隊",
+      "simplified": "球队",
+      "pinyin": "qiúduì",
+      "english": "side, team, ball game team",
+      "pinyinNumbered": "qiu2dui4"
+    },
+    {
+      "traditional": "球鞋",
+      "simplified": "球鞋",
+      "pinyin": "qiú xié",
+      "english": "athletic shoes",
+      "pinyinNumbered": "qiu2 xie2"
+    },
+    {
+      "traditional": "取",
+      "simplified": "取",
+      "pinyin": "qǔ",
+      "english": "have, withdraw, choose, assume, take away, adopt, assumption, select, draw out, withdrawal, obtain, remove, take, fetch, get, aim at, pick up, sponge, adoption",
+      "pinyinNumbered": "qu3"
+    },
+    {
+      "traditional": "取得",
+      "simplified": "取得",
+      "pinyin": "qǔdé",
+      "english": "gain, acquire, obtain",
+      "pinyinNumbered": "qu3de2"
+    },
+    {
+      "traditional": "全",
+      "simplified": "全",
+      "pinyin": "quán",
+      "english": "det.: all, Surname, whole, Quan",
+      "pinyinNumbered": "quan2"
+    },
+    {
+      "traditional": "全部",
+      "simplified": "全部",
+      "pinyin": "quánbù",
+      "english": "lot, aggregate, all, gross, entirety, allness, shebang, caboodle, complete, bunch, sum, total, gamut, entire, det.: all, totality, whole, everything",
+      "pinyinNumbered": "quan2bu4"
+    },
+    {
+      "traditional": "全國",
+      "simplified": "全国",
+      "pinyin": "quán guó",
+      "english": "whole nation, nationwide, countrywide, national",
+      "pinyinNumbered": "quan2 guo2"
+    },
+    {
+      "traditional": "全家",
+      "simplified": "全家",
+      "pinyin": "quán jiā",
+      "english": "whole family",
+      "pinyinNumbered": "quan2 jia1"
+    },
+    {
+      "traditional": "全年",
+      "simplified": "全年",
+      "pinyin": "quán nián",
+      "english": "the whole year, all year long",
+      "pinyinNumbered": "quan2 nian2"
+    },
+    {
+      "traditional": "全身",
+      "simplified": "全身",
+      "pinyin": "quánshēn",
+      "english": "mutton, the whole body, em, whole body, mut",
+      "pinyinNumbered": "quan2shen1"
+    },
+    {
+      "traditional": "全體",
+      "simplified": "全体",
+      "pinyin": "quántǐ",
+      "english": "great, entirety, general, ensemble, altogether, collectivity, entire, totality, whole body, whole, all, pie, crew, be-all, plenary assembly, en bloc, wholeness, gamut",
+      "pinyinNumbered": "quan2ti3"
+    },
+    {
+      "traditional": "然後",
+      "simplified": "然后",
+      "pinyin": "ránhòu",
+      "english": "therewith, and so, and then, and then, thereupon, after that, so, then, with that",
+      "pinyinNumbered": "ran2hou4"
+    },
+    {
+      "traditional": "讓",
+      "simplified": "让",
+      "pinyin": "ràng",
+      "english": "allow, induce sb. to do sth.",
+      "pinyinNumbered": "rang4"
+    },
+    {
+      "traditional": "熱情",
+      "simplified": "热情",
+      "pinyin": "rèqíng",
+      "english": "enthusiastic",
+      "pinyinNumbered": "re4qing2"
+    },
+    {
+      "traditional": "人口",
+      "simplified": "人口",
+      "pinyin": "rénkǒu",
+      "english": "population",
+      "pinyinNumbered": "ren2kou3"
+    },
+    {
+      "traditional": "人們",
+      "simplified": "人们",
+      "pinyin": "rénmen",
+      "english": "workforce, hands, work force, folk, people, they, the people, men, manpower, common people",
+      "pinyinNumbered": "ren2men5"
+    },
+    {
+      "traditional": "人數",
+      "simplified": "人数",
+      "pinyin": "rénshù",
+      "english": "number of people",
+      "pinyinNumbered": "ren2shu4"
+    },
+    {
+      "traditional": "認為",
+      "simplified": "认为",
+      "pinyin": "rènwéi",
+      "english": "find, treat, deem, suppose, look on, repute, discount, esteem, accredit, feel, account, calculate, estimate, take to be, reckon, expect, think, hold, trust, recognise, opine, sound off, adjudge, consideration, consider, regard as, look upon, believe in, disbelieve, allow, conceive, regard, call, imagine, view, forecast, believe, suspect, rate, animadvert, look on, listen, speak up, figure, c",
+      "pinyinNumbered": "ren4wei2"
+    },
+    {
+      "traditional": "日報",
+      "simplified": "日报",
+      "pinyin": "rì bào",
+      "english": "daily newspaper",
+      "pinyinNumbered": "ri4 bao4"
+    },
+    {
+      "traditional": "日子",
+      "simplified": "日子",
+      "pinyin": "rìzi",
+      "english": "yom, day, a particular day, livelihood, life, date, days, time",
+      "pinyinNumbered": "ri4zi5"
+    },
+    {
+      "traditional": "如果",
+      "simplified": "如果",
+      "pinyin": "rúguǒ",
+      "english": "conj.: if",
+      "pinyinNumbered": "ru2guo3"
+    },
+    {
+      "traditional": "入口",
+      "simplified": "入口",
+      "pinyin": "rùkǒu",
+      "english": "adit, window, gateway, propylaeum, entranceway, entree, entrance, portal, in door, threshold, inlet, approach, door, entry, entering, access, entryway, intake, ingress",
+      "pinyinNumbered": "ru4kou3"
+    },
+    {
+      "traditional": "商量",
+      "simplified": "商量",
+      "pinyin": "shāngliáng",
+      "english": "talk, consult, arrange, confer, talk over, discussion, advise, discuss, concert",
+      "pinyinNumbered": "shang1liang2"
+    },
+    {
+      "traditional": "商人",
+      "simplified": "商人",
+      "pinyin": "shāngrén",
+      "english": "merchandiser, trader, businessman, merchant, monger, trafficker, chapman, dealer, cit, merchantman, tradespeople, merchantry, bargainer, man of affairs",
+      "pinyinNumbered": "shang1ren2"
+    },
+    {
+      "traditional": "上周",
+      "simplified": "上周",
+      "pinyin": "shàng zhoū",
+      "english": "last week",
+      "pinyinNumbered": "shang4 zhou1"
+    },
+    {
+      "traditional": "少數",
+      "simplified": "少数",
+      "pinyin": "shǎoshù",
+      "english": "det.: a few",
+      "pinyinNumbered": "shao3shu4"
+    },
+    {
+      "traditional": "少年",
+      "simplified": "少年",
+      "pinyin": "shàonián",
+      "english": "nipper, covey, early youth (10-16), juvenility, adolescent, youngster, teens, gossoon, boy, boy or girl of early youth, spalpeen, juvenile, callan, callant, shaver, lad, laddie, juvenile person, teenager, stripling, young boy, early youth, younker",
+      "pinyinNumbered": "shao4nian2"
+    },
+    {
+      "traditional": "身邊",
+      "simplified": "身边",
+      "pinyin": "shēnbiān",
+      "english": "nearby, side, at hand",
+      "pinyinNumbered": "shen1bian1"
+    },
+    {
+      "traditional": "甚麼樣",
+      "simplified": "什么样",
+      "pinyin": "shén me yàng",
+      "english": "what kind?, what sort?, what appearance?",
+      "pinyinNumbered": "shen2 me5 yang4"
+    },
+    {
+      "traditional": "生",
+      "simplified": "生",
+      "pinyin": "shēng",
+      "english": "give birth to, bear, grow, get, have, cause to happen, make (a fire), exist, live",
+      "pinyinNumbered": "sheng1"
+    },
+    {
+      "traditional": "生詞",
+      "simplified": "生词",
+      "pinyin": "shēng cí",
+      "english": "new word (in textbook), word that is unfamiliar or not yet studied, CL:組|组[zu3],個|个[ge4]",
+      "pinyinNumbered": "sheng1 ci2"
+    },
+    {
+      "traditional": "生活",
+      "simplified": "生活",
+      "pinyin": "shēnghuó",
+      "english": "life, existence, livelihood",
+      "pinyinNumbered": "sheng1huo2"
+    },
+    {
+      "traditional": "聲音",
+      "simplified": "声音",
+      "pinyin": "shēngyīn",
+      "english": "voice, vocal, language, huskiness, vox, vocalization, audio, noise, sonic, tone, sound, phone, audio frequency",
+      "pinyinNumbered": "sheng1yin1"
+    },
+    {
+      "traditional": "省",
+      "simplified": "省",
+      "pinyin": "shěng, xǐng",
+      "english": "to save, to economize, to do without, to omit, to leave out, province, CL:個|个[ge4], to inspect, to examine, to be aware, to pay a visit (to one's parents or elders)",
+      "pinyinNumbered": "sheng3, 5xing3"
+    },
+    {
+      "traditional": "十分",
+      "simplified": "十分",
+      "pinyin": "shífēn",
+      "english": "very, fully, utterly, extremely",
+      "pinyinNumbered": "shi2fen1"
+    },
+    {
+      "traditional": "實際",
+      "simplified": "实际",
+      "pinyin": "shíjì",
+      "english": "practical, literal",
+      "pinyinNumbered": "shi2ji4"
+    },
+    {
+      "traditional": "實習",
+      "simplified": "实习",
+      "pinyin": "shíxí",
+      "english": "practice, do fieldwork",
+      "pinyinNumbered": "shi2xi2"
+    },
+    {
+      "traditional": "實現",
+      "simplified": "实现",
+      "pinyin": "shíxiàn",
+      "english": "realize, achieve, bring about",
+      "pinyinNumbered": "shi2xian4"
+    },
+    {
+      "traditional": "實在",
+      "simplified": "实在",
+      "pinyin": "shízài",
+      "english": "indeed, really, honestly, in fact, as a matter of fact",
+      "pinyinNumbered": "shi2zai4"
+    },
+    {
+      "traditional": "食物",
+      "simplified": "食物",
+      "pinyin": "shíwù",
+      "english": "scran, board, ingesta, sustentation, provender, viand, chow, aliment, pabulum, edibles, prog, nurture, cheer, eatable, edible, alimentary, eatables, chowchow, nutrient, diet, bread, trencher, sustenance, nutriment, nosh, nutrition, victuals, cib., vivers, eating, toke, meat, cib, grub, peck, viands, comestible, nourishment, fare, victual, food, commons, fodder, scoff, victualage, muckamuck, ta",
+      "pinyinNumbered": "shi2wu4"
+    },
+    {
+      "traditional": "使用",
+      "simplified": "使用",
+      "pinyin": "shǐyòng",
+      "english": "use, employ, apply",
+      "pinyinNumbered": "shi3yong4"
+    },
+    {
+      "traditional": "市",
+      "simplified": "市",
+      "pinyin": "shì",
+      "english": "market, city, CL:個|个[ge4]",
+      "pinyinNumbered": "shi4"
+    },
+    {
+      "traditional": "市長",
+      "simplified": "市长",
+      "pinyin": "shìzhǎng",
+      "english": "alcalde, city manager, mayor, portreeve, mayoral, civic leader, provost, civil leader, burgomaster",
+      "pinyinNumbered": "shi4zhang3"
+    },
+    {
+      "traditional": "事情",
+      "simplified": "事情",
+      "pinyin": "shìqíng",
+      "english": "proposition, pie, shebang, thing, affair, occasions, undertaking, concern, question, business, schmear, matter",
+      "pinyinNumbered": "shi4qing2"
+    },
+    {
+      "traditional": "收",
+      "simplified": "收",
+      "pinyin": "shōu",
+      "english": "receive, accept, take in/back, gather in, conclude, stop",
+      "pinyinNumbered": "shou1"
+    },
+    {
+      "traditional": "收到",
+      "simplified": "收到",
+      "pinyin": "shōudào",
+      "english": "hear, find, achievement, receive, receipt, obtain, achieve, incur, get, come to",
+      "pinyinNumbered": "shou1dao4"
+    },
+    {
+      "traditional": "收入",
+      "simplified": "收入",
+      "pinyin": "shōurù",
+      "english": "earning, incoming, gainings, finance, ingathering, proceed, receipts, income, coming-in, taking, pocket, earnings, fruit, revenue, proceeds, living",
+      "pinyinNumbered": "shou1ru4"
+    },
+    {
+      "traditional": "手錶",
+      "simplified": "手表",
+      "pinyin": "shǒubiǎo",
+      "english": "wristwatch",
+      "pinyinNumbered": "shou3biao3"
+    },
+    {
+      "traditional": "受到",
+      "simplified": "受到",
+      "pinyin": "shòudào",
+      "english": "experience, receive, come in for, suffer, undergo, come in for, be given, come to, be subjected to",
+      "pinyinNumbered": "shou4dao4"
+    },
+    {
+      "traditional": "舒服",
+      "simplified": "舒服",
+      "pinyin": "shūfú",
+      "english": "comfortable",
+      "pinyinNumbered": "shu1fu2"
+    },
+    {
+      "traditional": "熟",
+      "simplified": "熟",
+      "pinyin": "shú",
+      "english": "ripe, cooked, done, deep (sleep, thoughts, etc.)",
+      "pinyinNumbered": "shu2"
+    },
+    {
+      "traditional": "數",
+      "simplified": "数",
+      "pinyin": "shù",
+      "english": "det.: several",
+      "pinyinNumbered": "shu4"
+    },
+    {
+      "traditional": "數字",
+      "simplified": "数字",
+      "pinyin": "shùzì",
+      "english": "numeral, numerical, digit, amount, number, numeric, figure, digital, quantity",
+      "pinyinNumbered": "shu4zi4"
+    },
+    {
+      "traditional": "水平",
+      "simplified": "水平",
+      "pinyin": "shuǐpíng",
+      "english": "level, horizontal, grade, degree, standard, horizontality",
+      "pinyinNumbered": "shui3ping2"
+    },
+    {
+      "traditional": "順利",
+      "simplified": "顺利",
+      "pinyin": "shùnlì",
+      "english": "smooth, successful, without a hitch",
+      "pinyinNumbered": "shun4li4"
+    },
+    {
+      "traditional": "說明",
+      "simplified": "说明",
+      "pinyin": "shuōmíng",
+      "english": "explain, illustrate, show",
+      "pinyinNumbered": "shuo1ming2"
+    },
+    {
+      "traditional": "司機",
+      "simplified": "司机",
+      "pinyin": "sījī",
+      "english": "driver",
+      "pinyinNumbered": "si1ji1"
+    },
+    {
+      "traditional": "送到",
+      "simplified": "送到",
+      "pinyin": "sòngdào",
+      "english": "Deliver",
+      "pinyinNumbered": "song4dao4"
+    },
+    {
+      "traditional": "送給",
+      "simplified": "送给",
+      "pinyin": "sònggěi",
+      "english": "present to, to give as a present, send to, give, send/present to, to present",
+      "pinyinNumbered": "song4gei3"
+    },
+    {
+      "traditional": "算",
+      "simplified": "算",
+      "pinyin": "suàn",
+      "english": "consider, regard/count as",
+      "pinyinNumbered": "suan4"
+    },
+    {
+      "traditional": "雖然",
+      "simplified": "虽然",
+      "pinyin": "suīrán",
+      "english": "conj.: though, although",
+      "pinyinNumbered": "sui1ran2"
+    },
+    {
+      "traditional": "隨便",
+      "simplified": "随便",
+      "pinyin": "suíbiàn",
+      "english": "informal, willful, do as one pleases, wanton, casual, random, careless",
+      "pinyinNumbered": "sui2bian4"
+    },
+    {
+      "traditional": "隨時",
+      "simplified": "随时",
+      "pinyin": "suíshí",
+      "english": "whenever, whene'er, always, readily, whenever necessary, at all times, as occasion demands, at any time",
+      "pinyinNumbered": "sui2shi2"
+    },
+    {
+      "traditional": "所以",
+      "simplified": "所以",
+      "pinyin": "suǒyǐ",
+      "english": "conj.: so, therefore, as a result",
+      "pinyinNumbered": "suo3yi3"
+    },
+    {
+      "traditional": "所有",
+      "simplified": "所有",
+      "pinyin": "suǒyǒu",
+      "english": "det.: all",
+      "pinyinNumbered": "suo3you3"
+    },
+    {
+      "traditional": "它",
+      "simplified": "它",
+      "pinyin": "tā",
+      "english": "they (neologism for {1ta1}[3] [4]), [4]), ), this, that, it",
+      "pinyinNumbered": "ta1"
+    },
+    {
+      "traditional": "它們",
+      "simplified": "它们",
+      "pinyin": "tāmen",
+      "english": "they, they (non-human)",
+      "pinyinNumbered": "ta1men5"
+    },
+    {
+      "traditional": "太太",
+      "simplified": "太太",
+      "pinyin": "tàitài",
+      "english": "lady, memsahib, Dona, dona, Mrs, mum, Senora, senora, Mrs., mistress of a household, madam, Frau, goodwife, missus, senhora, married woman, wife, vrouw, Madame, madame, missis, wahine, Signora, signora",
+      "pinyinNumbered": "tai4tai4"
+    },
+    {
+      "traditional": "太陽",
+      "simplified": "太阳",
+      "pinyin": "tàiyáng",
+      "english": "Apollo, luminary, daystar, digit, sunlight, solar, sunshine, Phoebus, lamp, sun, Sol, fireball",
+      "pinyinNumbered": "tai4yang2"
+    },
+    {
+      "traditional": "態度",
+      "simplified": "态度",
+      "pinyin": "tàidù",
+      "english": "stance, treatment, demeanor, dealing, deportment, pose, behavior, manner, demeanour, way, bearing, attitude, air, behaviour, front, mien, conduct, mental attitude, approach, posture, address, position, bedside manner, movement, gesture, comportment, presence, sort",
+      "pinyinNumbered": "tai4du4"
+    },
+    {
+      "traditional": "討論",
+      "simplified": "讨论",
+      "pinyin": "tǎolùn",
+      "english": "to discuss, to take something up with someone, to talk about",
+      "pinyinNumbered": "tao3lun4"
+    },
+    {
+      "traditional": "套",
+      "simplified": "套",
+      "pinyin": "tào",
+      "english": "m.[general]",
+      "pinyinNumbered": "tao4"
+    },
+    {
+      "traditional": "特別",
+      "simplified": "特别",
+      "pinyin": "tèbié",
+      "english": "unusual, specially",
+      "pinyinNumbered": "te4bie2"
+    },
+    {
+      "traditional": "特點",
+      "simplified": "特点",
+      "pinyin": "tèdiǎn",
+      "english": "distinctive feature, trait, point, flavor, singularity, flavour, distinction, characteristic, excellence, speciality, specialty, idiosyncrasy, salience, distinctiveness, specialness, feature, spot, peculiarity",
+      "pinyinNumbered": "te4dian3"
+    },
+    {
+      "traditional": "疼",
+      "simplified": "疼",
+      "pinyin": "téng",
+      "english": "(it) hurts, sore, to love dearly",
+      "pinyinNumbered": "teng2"
+    },
+    {
+      "traditional": "提",
+      "simplified": "提",
+      "pinyin": "tí",
+      "english": "mention, refer to, promote, bring up",
+      "pinyinNumbered": "ti2"
+    },
+    {
+      "traditional": "提出",
+      "simplified": "提出",
+      "pinyin": "tíchū",
+      "english": "put forward, pose, raise",
+      "pinyinNumbered": "ti2chu1"
+    },
+    {
+      "traditional": "提到",
+      "simplified": "提到",
+      "pinyin": "tídào",
+      "english": "mention, refer to",
+      "pinyinNumbered": "ti2dao4"
+    },
+    {
+      "traditional": "提高",
+      "simplified": "提高",
+      "pinyin": "tígāo",
+      "english": "raise, heighten, enhance, increase, improve",
+      "pinyinNumbered": "ti2gao1"
+    },
+    {
+      "traditional": "題",
+      "simplified": "题",
+      "pinyin": "tí",
+      "english": "m.[general]",
+      "pinyinNumbered": "ti2"
+    },
+    {
+      "traditional": "體育",
+      "simplified": "体育",
+      "pinyin": "tǐyū",
+      "english": "training, physical education, athletics, sports, gymnastic, physical education, physical training, physical culture, physical education/training, gym",
+      "pinyinNumbered": "ti3yu1"
+    },
+    {
+      "traditional": "體育場",
+      "simplified": "体育场",
+      "pinyin": "tǐ yù chǎng",
+      "english": "stadium, CL:個|个[ge4],座[zuo4]",
+      "pinyinNumbered": "ti3 yu4 chang3"
+    },
+    {
+      "traditional": "體育館",
+      "simplified": "体育馆",
+      "pinyin": "tǐyūguǎn",
+      "english": "stadium, coliseum, gym, turnhall, palestra, gymnasium",
+      "pinyinNumbered": "ti3yu1guan3"
+    },
+    {
+      "traditional": "天上",
+      "simplified": "天上",
+      "pinyin": "tiān shàng",
+      "english": "celestial, heavenly",
+      "pinyinNumbered": "tian1 shang4"
+    },
+    {
+      "traditional": "條",
+      "simplified": "条",
+      "pinyin": "tiáo",
+      "english": "bar, item, short note, a long narrow piece, streak, clause, stripe, sth. long and narrow, filet, m.[general], article, strip, assize, twig, ingot, slip",
+      "pinyinNumbered": "tiao2"
+    },
+    {
+      "traditional": "條件",
+      "simplified": "条件",
+      "pinyin": "tiáojiàn",
+      "english": "mood, formula, conditional, precondition, prerequisite, requisition, factor, qualification, requirement, stipulation, proviso, circumstances, provision, term, reservation, if, condition",
+      "pinyinNumbered": "tiao2jian4"
+    },
+    {
+      "traditional": "聽講",
+      "simplified": "听讲",
+      "pinyin": "tīng jiǎng",
+      "english": "to attend a lecture, to listen to a talk",
+      "pinyinNumbered": "ting1 jiang3"
+    },
+    {
+      "traditional": "聽說",
+      "simplified": "听说",
+      "pinyin": "tīngshuō",
+      "english": "hear, understand, learn, rumor, hear that..., hear/understand that..., be told, understand that..., hear of",
+      "pinyinNumbered": "ting1shuo1"
+    },
+    {
+      "traditional": "停",
+      "simplified": "停",
+      "pinyin": "tíng",
+      "english": "stay, cease, put off, cessation, stop, switch off, cheese, stop over, cut off, halt, turn off, lie at anchor, pause, park",
+      "pinyinNumbered": "ting2"
+    },
+    {
+      "traditional": "停車",
+      "simplified": "停车",
+      "pinyin": "tíngchē",
+      "english": "park the car",
+      "pinyinNumbered": "ting2che1"
+    },
+    {
+      "traditional": "停車場",
+      "simplified": "停车场",
+      "pinyin": "tíngchēchǎng",
+      "english": "parking lot, parking area, parking, car park, parking lot, car park, halt, yard, park",
+      "pinyinNumbered": "ting2che1chang3"
+    },
+    {
+      "traditional": "挺",
+      "simplified": "挺",
+      "pinyin": "tǐng",
+      "english": "very, rather, quite",
+      "pinyinNumbered": "ting3"
+    },
+    {
+      "traditional": "挺好",
+      "simplified": "挺好",
+      "pinyin": "tǐng hǎo",
+      "english": "very good",
+      "pinyinNumbered": "ting3 hao3"
+    },
+    {
+      "traditional": "通",
+      "simplified": "通",
+      "pinyin": "tōng",
+      "english": "m.[event]",
+      "pinyinNumbered": "tong1"
+    },
+    {
+      "traditional": "通過",
+      "simplified": "通过",
+      "pinyin": "tōngguò",
+      "english": "adopt, pass, carry (motion/legislation)",
+      "pinyinNumbered": "tong1guo4"
+    },
+    {
+      "traditional": "通知",
+      "simplified": "通知",
+      "pinyin": "tōngzhī",
+      "english": "notify, inform",
+      "pinyinNumbered": "tong1zhi1"
+    },
+    {
+      "traditional": "同時",
+      "simplified": "同时",
+      "pinyin": "tóng shí",
+      "english": "at the same time, simultaneously",
+      "pinyinNumbered": "tong2 shi2"
+    },
+    {
+      "traditional": "同事",
+      "simplified": "同事",
+      "pinyin": "tóngshì",
+      "english": "brother, coadjutor, workmate, friend, yokefellow, co-worker, fellow worker, confrere, colleague, stablemate, companion, crew, workfellow, staff, socius, coworker, bedfellow, fellow, haver, rival, comrade",
+      "pinyinNumbered": "tong2shi4"
+    },
+    {
+      "traditional": "同樣",
+      "simplified": "同样",
+      "pinyin": "tóngyàng",
+      "english": "same, equal, similar",
+      "pinyinNumbered": "tong2yang4"
+    },
+    {
+      "traditional": "頭",
+      "simplified": "头",
+      "pinyin": "tóu",
+      "english": "head, hair (style), top/end of sth., chief",
+      "pinyinNumbered": "tou2"
+    },
+    {
+      "traditional": "頭髮",
+      "simplified": "头发",
+      "pinyin": "tóufǎ",
+      "english": "barba, chevelure, lock, head of hair, hair, tress, mane, hair (on human head)",
+      "pinyinNumbered": "tou2fa3"
+    },
+    {
+      "traditional": "圖片",
+      "simplified": "图片",
+      "pinyin": "túpiàn",
+      "english": "pictorial matter, picture, photograph, pic, artwork",
+      "pinyinNumbered": "tu2pian4"
+    },
+    {
+      "traditional": "推",
+      "simplified": "推",
+      "pinyin": "tuī",
+      "english": "push, decline, refuse, reject, put off, postpone, delay",
+      "pinyinNumbered": "tui1"
+    },
+    {
+      "traditional": "腿",
+      "simplified": "腿",
+      "pinyin": "tuǐ",
+      "english": "ham, a leg-like support, underpinning, thigh, gamb, shank, supporter, leg",
+      "pinyinNumbered": "tui3"
+    },
+    {
+      "traditional": "外地",
+      "simplified": "外地",
+      "pinyin": "wàidì",
+      "english": "parts of the country other than where one is, place other than where one is",
+      "pinyinNumbered": "wai4di4"
+    },
+    {
+      "traditional": "外賣",
+      "simplified": "外卖",
+      "pinyin": "wài mài",
+      "english": "to go, take out (relates to food bought at a restaurant)",
+      "pinyinNumbered": "wai4 mai4"
+    },
+    {
+      "traditional": "完",
+      "simplified": "完",
+      "pinyin": "wán",
+      "english": "exhaust, run out, wipe out, run out, pay, complete, completion, finish, be through, be over, use up, wind up, payment, use up, pay (taxes), end up",
+      "pinyinNumbered": "wan2"
+    },
+    {
+      "traditional": "完成",
+      "simplified": "完成",
+      "pinyin": "wánchéng",
+      "english": "fill in, finish out, fulfil, practice, complete, finish, encompass, clear up, top off, cleave, top off, accomplishment, make out, effect, perfective, fulfill, go through, exercise, discharge, fill out, completion, end, run, bring ... to fruition, round out, achieve, execute, round out, make, cap off, accomplish, practise, follow through, come, finalize, fulfilment, dispatch, bring ...",
+      "pinyinNumbered": "wan2cheng2"
+    },
+    {
+      "traditional": "完全",
+      "simplified": "完全",
+      "pinyin": "wánquán",
+      "english": "completely, fully, wholly, absolutely",
+      "pinyinNumbered": "wan2quan2"
+    },
+    {
+      "traditional": "晚安",
+      "simplified": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "Good night!, Good evening!",
+      "pinyinNumbered": "wan3 an1"
+    },
+    {
+      "traditional": "晚報",
+      "simplified": "晚报",
+      "pinyin": "wǎn bào",
+      "english": "evening newspaper, (in a newspaper's name) Evening News",
+      "pinyinNumbered": "wan3 bao4"
+    },
+    {
+      "traditional": "晚餐",
+      "simplified": "晚餐",
+      "pinyin": "wǎncān",
+      "english": "dinner, supper",
+      "pinyinNumbered": "wan3can1"
+    },
+    {
+      "traditional": "晚會",
+      "simplified": "晚会",
+      "pinyin": "wǎnhuì",
+      "english": "evening entertainment, soiree, evening party, social evening, party, evening, evening entertainment/party",
+      "pinyinNumbered": "wan3hui4"
+    },
+    {
+      "traditional": "碗",
+      "simplified": "碗",
+      "pinyin": "wǎn",
+      "english": "m.[container]",
+      "pinyinNumbered": "wan3"
+    },
+    {
+      "traditional": "萬",
+      "simplified": "万",
+      "pinyin": "wàn",
+      "english": "det.: ten thousand, myriad, multitudinous",
+      "pinyinNumbered": "wan4"
+    },
+    {
+      "traditional": "網",
+      "simplified": "网",
+      "pinyin": "wǎng",
+      "english": "net",
+      "pinyinNumbered": "wang3"
+    },
+    {
+      "traditional": "網球",
+      "simplified": "网球",
+      "pinyin": "wǎngqiú",
+      "english": "lawn tennis, tennis, follow-through, tennis ball",
+      "pinyinNumbered": "wang3qiu2"
+    },
+    {
+      "traditional": "網站",
+      "simplified": "网站",
+      "pinyin": "wǎng zhàn",
+      "english": "website, network station, node",
+      "pinyinNumbered": "wang3 zhan4"
+    },
+    {
+      "traditional": "往",
+      "simplified": "往",
+      "pinyin": "wǎng",
+      "english": "go toward",
+      "pinyinNumbered": "wang3"
+    },
+    {
+      "traditional": "為",
+      "simplified": "为",
+      "pinyin": "wéi",
+      "english": "by",
+      "pinyinNumbered": "wei2"
+    },
+    {
+      "traditional": "為什麼",
+      "simplified": "为什么",
+      "pinyin": "wèishéme",
+      "english": "why, why?, how come, why is it that?, whereat, whereto",
+      "pinyinNumbered": "wei4she2me5"
+    },
+    {
+      "traditional": "位",
+      "simplified": "位",
+      "pinyin": "wèi",
+      "english": "location, digit, m.[general], status, figure, throne, position, place, condition",
+      "pinyinNumbered": "wei4"
+    },
+    {
+      "traditional": "味道",
+      "simplified": "味道",
+      "pinyin": "wèidào",
+      "english": "gustatory perception, gust, tang, taste perception, feeling, savor, flavor, taste sensation, savour, streak, flavour, relish, sapidity, smatch, soupcon, tincture, tasting, smell, smack, gustatory sensation, suggestion, snack, taste",
+      "pinyinNumbered": "wei4dao4"
+    },
+    {
+      "traditional": "喂",
+      "simplified": "喂",
+      "pinyin": "wèi",
+      "english": "hello, hey",
+      "pinyinNumbered": "wei4"
+    },
+    {
+      "traditional": "溫度",
+      "simplified": "温度",
+      "pinyin": "wēndù",
+      "english": "barothermohygrograph, temperature, barothermohygrogram",
+      "pinyinNumbered": "wen1du4"
+    },
+    {
+      "traditional": "聞",
+      "simplified": "闻",
+      "pinyin": "wén",
+      "english": "smell",
+      "pinyinNumbered": "wen2"
+    },
+    {
+      "traditional": "問路",
+      "simplified": "问路",
+      "pinyin": "wèn lù",
+      "english": "to ask for directions, to ask the way (to some place)",
+      "pinyinNumbered": "wen4 lu4"
+    },
+    {
+      "traditional": "問題",
+      "simplified": "问题",
+      "pinyin": "wèntí",
+      "english": "problem, mishap, query, job, interface, question, inquiry, matter, enquiry, trouble, issue, worry, subject, topic, hang-up, business, quaere",
+      "pinyinNumbered": "wen4ti2"
+    },
+    {
+      "traditional": "午餐",
+      "simplified": "午餐",
+      "pinyin": "wǔcān",
+      "english": "midday meal, lunch",
+      "pinyinNumbered": "wu3can1"
+    },
+    {
+      "traditional": "午睡",
+      "simplified": "午睡",
+      "pinyin": "wǔ shuì",
+      "english": "to take a nap, siesta",
+      "pinyinNumbered": "wu3 shui4"
+    },
+    {
+      "traditional": "西北",
+      "simplified": "西北",
+      "pinyin": "xīběi",
+      "english": "northwest, Northwest China, the Northwest",
+      "pinyinNumbered": "xi1bei3"
+    },
+    {
+      "traditional": "西餐",
+      "simplified": "西餐",
+      "pinyin": "xī cān",
+      "english": "Western-style food, CL:份[fen4],頓|顿[dun4]",
+      "pinyinNumbered": "xi1 can1"
+    },
+    {
+      "traditional": "西方",
+      "simplified": "西方",
+      "pinyin": "xīfāng",
+      "english": "the Occident, West, New World, occidental, westward, west, the West, the west, Hesperian, occident, Western, sunset, western hemisphere, western",
+      "pinyinNumbered": "xi1fang1"
+    },
+    {
+      "traditional": "西南",
+      "simplified": "西南",
+      "pinyin": "xī nán",
+      "english": "southwest",
+      "pinyinNumbered": "xi1 nan2"
+    },
+    {
+      "traditional": "西醫",
+      "simplified": "西医",
+      "pinyin": "xī yī",
+      "english": "Western medicine, a doctor trained in Western medicine",
+      "pinyinNumbered": "xi1 yi1"
+    },
+    {
+      "traditional": "習慣",
+      "simplified": "习惯",
+      "pinyin": "xíguàn",
+      "english": "habit, custom",
+      "pinyinNumbered": "xi2guan4"
+    },
+    {
+      "traditional": "洗衣機",
+      "simplified": "洗衣机",
+      "pinyin": "xǐ yī jī",
+      "english": "washer, washing machine, CL:臺|台[tai2]",
+      "pinyinNumbered": "xi3 yi1 ji1"
+    },
+    {
+      "traditional": "洗澡",
+      "simplified": "洗澡",
+      "pinyin": "xǐzǎo",
+      "english": "have a bath, lave, take a bath, tub, bath, wash, bathing, bathe",
+      "pinyinNumbered": "xi3zao3"
+    },
+    {
+      "traditional": "下",
+      "simplified": "下",
+      "pinyin": "xià",
+      "english": "under (condition/fact etc.)",
+      "pinyinNumbered": "xia4"
+    },
+    {
+      "traditional": "下雪",
+      "simplified": "下雪",
+      "pinyin": "xià xuě",
+      "english": "to snow",
+      "pinyinNumbered": "xia4 xue3"
+    },
+    {
+      "traditional": "下週",
+      "simplified": "下周",
+      "pinyin": "xià zhoū",
+      "english": "next week",
+      "pinyinNumbered": "xia4 zhou1"
+    },
+    {
+      "traditional": "夏天",
+      "simplified": "夏天",
+      "pinyin": "xià tiān",
+      "english": "summer, CL:個|个[ge4]",
+      "pinyinNumbered": "xia4 tian1"
+    },
+    {
+      "traditional": "相同",
+      "simplified": "相同",
+      "pinyin": "xiāngtóng",
+      "english": "be identical/alike, uniform, be identical, overlap, alike, identical, be alike",
+      "pinyinNumbered": "xiang1tong2"
+    },
+    {
+      "traditional": "相信",
+      "simplified": "相信",
+      "pinyin": "xiāngxìn",
+      "english": "deem, believe, credit, esteem, accredit, feel, trow, count, have faith in, guess, lippen, buy, be convinced of, hold, think, trust, accept, know, hone, believe in, favour, believe in, hope",
+      "pinyinNumbered": "xiang1xin4"
+    },
+    {
+      "traditional": "響",
+      "simplified": "响",
+      "pinyin": "xiǎng",
+      "english": "make a sound",
+      "pinyinNumbered": "xiang3"
+    },
+    {
+      "traditional": "想到",
+      "simplified": "想到",
+      "pinyin": "xiǎngdào",
+      "english": "imagine, ideate, think, envisage, anticipate, bethink, dream, recollect, think of, call to mind, think of, occur, conceive of",
+      "pinyinNumbered": "xiang3dao4"
+    },
+    {
+      "traditional": "想法",
+      "simplified": "想法",
+      "pinyin": "xiǎngfǎ",
+      "english": "view, stance, mentality, idea, notion, sentiment, judgment, construct, thought, opinion, conception, viewpoint, judgement, belief, mind-set, what one has in mind, persuasion, perspective, concept, mind, impression",
+      "pinyinNumbered": "xiang3fa3"
+    },
+    {
+      "traditional": "想起",
+      "simplified": "想起",
+      "pinyin": "xiǎngqǐ",
+      "english": "retrieve, think back, envisage, hit, echo, remember, think of, call to mind, recall, recollect, think of",
+      "pinyinNumbered": "xiang3qi3"
+    },
+    {
+      "traditional": "向",
+      "simplified": "向",
+      "pinyin": "xiàng",
+      "english": "to, towards",
+      "pinyinNumbered": "xiang4"
+    },
+    {
+      "traditional": "相機",
+      "simplified": "相机",
+      "pinyin": "xiàngjī",
+      "english": "camera",
+      "pinyinNumbered": "xiang4ji1"
+    },
+    {
+      "traditional": "像",
+      "simplified": "像",
+      "pinyin": "xiàng",
+      "english": "be like",
+      "pinyinNumbered": "xiang4"
+    },
+    {
+      "traditional": "小",
+      "simplified": "小",
+      "pinyin": "xiǎo",
+      "english": "small, little, petty, minor, young",
+      "pinyinNumbered": "xiao3"
+    },
+    {
+      "traditional": "小聲",
+      "simplified": "小声",
+      "pinyin": "xiǎo shēng",
+      "english": "in a low voice, (speak) in whispers",
+      "pinyinNumbered": "xiao3 sheng1"
+    },
+    {
+      "traditional": "小時候",
+      "simplified": "小时候",
+      "pinyin": "xiǎo shí hou",
+      "english": "in one's childhood",
+      "pinyinNumbered": "xiao3 shi2 hou5"
+    },
+    {
+      "traditional": "小說",
+      "simplified": "小说",
+      "pinyin": "xiǎoshuō",
+      "english": "novel, offprint, fiction",
+      "pinyinNumbered": "xiao3shuo1"
+    },
+    {
+      "traditional": "小心",
+      "simplified": "小心",
+      "pinyin": "xiǎoxīn",
+      "english": "beware, watch out, keep one's eyes skinned, keep one's eyes peeled, careful, cautious, be careful, see, watch, guard, ware, cautionary, keep one's eyes open, take care, look out, look out",
+      "pinyinNumbered": "xiao3xin1"
+    },
+    {
+      "traditional": "小組",
+      "simplified": "小组",
+      "pinyin": "xiǎozǔ",
+      "english": "squad, section, unit, group",
+      "pinyinNumbered": "xiao3zu3"
+    },
+    {
+      "traditional": "校園",
+      "simplified": "校园",
+      "pinyin": "xiàoyuán",
+      "english": "schoolyard, campus",
+      "pinyinNumbered": "xiao4yuan2"
+    },
+    {
+      "traditional": "校長",
+      "simplified": "校长",
+      "pinyin": "xiàozhǎng",
+      "english": "prexy, head, principal, headteacher, schoolmaster, master, warden, president, beak, rector, superintendent, director, head teacher, preceptor, headmaster, chancellor, school principal",
+      "pinyinNumbered": "xiao4zhang3"
+    },
+    {
+      "traditional": "笑話",
+      "simplified": "笑话",
+      "pinyin": "xiàohuà",
+      "english": "joke, jest",
+      "pinyinNumbered": "xiao4hua4"
+    },
+    {
+      "traditional": "笑話兒",
+      "simplified": "笑话儿",
+      "pinyin": "xiàohuà r",
+      "english": "Joke",
+      "pinyinNumbered": "xiao4hua4 r5"
+    },
+    {
+      "traditional": "鞵",
+      "simplified": "鞋",
+      "pinyin": "xié",
+      "english": "shoe, variant of 鞋[xie2]",
+      "pinyinNumbered": "xie2"
+    },
+    {
+      "traditional": "心裡",
+      "simplified": "心里",
+      "pinyin": "xīn li",
+      "english": "chest, heart, mind",
+      "pinyinNumbered": "xin1 li5"
+    },
+    {
+      "traditional": "心情",
+      "simplified": "心情",
+      "pinyin": "xīnqíng",
+      "english": "cognitive state, cue, frame of mind, form, stomach, pulse, humor, feeling, temper, state of mind, cheer, humour, frame/state of mind, mood, vein, spirit, feelings, frame, frame of mind, habit of mind, mind, tune",
+      "pinyinNumbered": "xin1qing2"
+    },
+    {
+      "traditional": "心中",
+      "simplified": "心中",
+      "pinyin": "xīn zhōng",
+      "english": "central point, in one's thoughts, in one's heart",
+      "pinyinNumbered": "xin1 zhong1"
+    },
+    {
+      "traditional": "新聞",
+      "simplified": "新闻",
+      "pinyin": "xīnwén",
+      "english": "unco, leak, intelligence, newsworthiness, witting, journalistic, information, journalism, courant, news",
+      "pinyinNumbered": "xin1wen2"
+    },
+    {
+      "traditional": "信",
+      "simplified": "信",
+      "pinyin": "xìn",
+      "english": "letter, mail, message",
+      "pinyinNumbered": "xin4"
+    },
+    {
+      "traditional": "信號",
+      "simplified": "信号",
+      "pinyin": "xìnhào",
+      "english": "sign, cue, beacon, code, beacon fire, messenger, signal, semaphore, signaling, waft",
+      "pinyinNumbered": "xin4hao4"
+    },
+    {
+      "traditional": "信息",
+      "simplified": "信息",
+      "pinyin": "xìn xī",
+      "english": "information, news, message",
+      "pinyinNumbered": "xin4 xi1"
+    },
+    {
+      "traditional": "信心",
+      "simplified": "信心",
+      "pinyin": "xìnxīn",
+      "english": "trustfulness, trustingness, confidence, belief, affiance, religion, feeling, fay, trust, positiveness, notion, reliance, religious belief, faith, hope, impression",
+      "pinyinNumbered": "xin4xin1"
+    },
+    {
+      "traditional": "信用卡",
+      "simplified": "信用卡",
+      "pinyin": "xìnyòngkǎ",
+      "english": "charge plate, charge card, credit card, credit card, charge card, bank card",
+      "pinyinNumbered": "xin4yong4ka3"
+    },
+    {
+      "traditional": "星星",
+      "simplified": "星星",
+      "pinyin": "xīngxīng",
+      "english": "star",
+      "pinyinNumbered": "xing1xing1"
+    },
+    {
+      "traditional": "行動",
+      "simplified": "行动",
+      "pinyin": "xíngdòng",
+      "english": "action, operation",
+      "pinyinNumbered": "xing2dong4"
+    },
+    {
+      "traditional": "行人",
+      "simplified": "行人",
+      "pinyin": "xíngrén",
+      "english": "foot traffic, passerby, goer, pedestrian, pedestrian traffic, passenger",
+      "pinyinNumbered": "xing2ren2"
+    },
+    {
+      "traditional": "行為",
+      "simplified": "行为",
+      "pinyin": "xíngwéi",
+      "english": "fact, demeanor, form, deportment, dealing, behavior, doings, course, act, point, goings-on, demeanour, procedure, lapse, going, bearing, turn, behaviour, activity, ongoing, thing, human action, conduct, commitment, human activity, behavioral, agency, deed, comportment, action",
+      "pinyinNumbered": "xing2wei2"
+    },
+    {
+      "traditional": "姓",
+      "simplified": "姓",
+      "pinyin": "xìng",
+      "english": "name",
+      "pinyinNumbered": "xing4"
+    },
+    {
+      "traditional": "姓名",
+      "simplified": "姓名",
+      "pinyin": "xìngmíng",
+      "english": "surname and personal name, name, full name",
+      "pinyinNumbered": "xing4ming2"
+    },
+    {
+      "traditional": "休假",
+      "simplified": "休假",
+      "pinyin": "xiūjià",
+      "english": "have holiday/vacation/leave",
+      "pinyinNumbered": "xiu1jia4"
+    },
+    {
+      "traditional": "許多",
+      "simplified": "许多",
+      "pinyin": "xǔduō",
+      "english": "lot, scores, lots, sight, pot, heap, quantity, plenty, slews, ton, battalion, many, scads, tidy sum, power, spate, chunk, pile, crowd, vastness, batch, lashings, whole lot, mint, mound, pocketful, large number, trunkful, ream, mickle, great deal, flock, mass, slew, heaps, a lot of, piles, whole slew, mess, raff, slue, gobs, much, lotta, multitude, volume, wad, store, raft, tons, satiety, rafts, doze",
+      "pinyinNumbered": "xu3duo1"
+    },
+    {
+      "traditional": "選",
+      "simplified": "选",
+      "pinyin": "xuǎn",
+      "english": "select, pick, elect, choose, take, pick out, van",
+      "pinyinNumbered": "xuan3"
+    },
+    {
+      "traditional": "學期",
+      "simplified": "学期",
+      "pinyin": "xuéqí",
+      "english": "school term, semester",
+      "pinyinNumbered": "xue2qi2"
+    },
+    {
+      "traditional": "雪",
+      "simplified": "雪",
+      "pinyin": "xuě",
+      "english": "snow",
+      "pinyinNumbered": "xue3"
+    },
+    {
+      "traditional": "顏色",
+      "simplified": "颜色",
+      "pinyin": "yánsè",
+      "english": "companion, countenance, pigment, coloring, tincture, dyestuff, colour, facial expression, tinct, grain, colouring, color",
+      "pinyinNumbered": "yan2se4"
+    },
+    {
+      "traditional": "眼",
+      "simplified": "眼",
+      "pinyin": "yǎn",
+      "english": "eye, small hole, aperture, salient/weighted point, salient/weighted point",
+      "pinyinNumbered": "yan3"
+    },
+    {
+      "traditional": "眼睛",
+      "simplified": "眼睛",
+      "pinyin": "yǎnjīng",
+      "english": "eye",
+      "pinyinNumbered": "yan3jing1"
+    },
+    {
+      "traditional": "養",
+      "simplified": "养",
+      "pinyin": "yǎng",
+      "english": "keep in good repair, keep, cultivate, cultivation, form, maintenance, foster, give birth to, convalesce, sustain, nourish, support, provide for, convalescence, grow, raise, maintain, acquire, rest, recuperate",
+      "pinyinNumbered": "yang3"
+    },
+    {
+      "traditional": "樣子",
+      "simplified": "样子",
+      "pinyin": "yàngzi",
+      "english": "tendency, pattern, form, manner, likelihood, way, resemblance, semblance, sample, guise, fashion, wise, model, air, mien, appearance, shape, suggestion, gesture, sort",
+      "pinyinNumbered": "yang4zi5"
+    },
+    {
+      "traditional": "要求",
+      "simplified": "要求",
+      "pinyin": "yāoqiú",
+      "english": "request, demand",
+      "pinyinNumbered": "yao1qiu2"
+    },
+    {
+      "traditional": "藥",
+      "simplified": "药",
+      "pinyin": "yào",
+      "english": "healer, medicine, certain chemicals, drug, medicament, medicinal drug, aspirin, medication, remedy, physic",
+      "pinyinNumbered": "yao4"
+    },
+    {
+      "traditional": "藥店",
+      "simplified": "药店",
+      "pinyin": "yào diàn",
+      "english": "pharmacy",
+      "pinyinNumbered": "yao4 dian4"
+    },
+    {
+      "traditional": "藥片",
+      "simplified": "药片",
+      "pinyin": "yào piàn",
+      "english": "a (medicine) pill or tablet, CL:片[pian4]",
+      "pinyinNumbered": "yao4 pian4"
+    },
+    {
+      "traditional": "藥水",
+      "simplified": "药水",
+      "pinyin": "yào shuǐ",
+      "english": "Yaksu in North Korea, near the border with Liaoning and Jiling province, medicine in liquid form, bottled medicine, lotion",
+      "pinyinNumbered": "yao4 shui3"
+    },
+    {
+      "traditional": "也許",
+      "simplified": "也许",
+      "pinyin": "yěxǔ",
+      "english": "possibly, peradventure, conceivably, assumedly, mayhap, doubtless, ablings, perhaps, perchance, potentially, probably, maybe, presumably, ablins, just",
+      "pinyinNumbered": "ye3xu3"
+    },
+    {
+      "traditional": "夜",
+      "simplified": "夜",
+      "pinyin": "yè",
+      "english": "night",
+      "pinyinNumbered": "ye4"
+    },
+    {
+      "traditional": "夜裡",
+      "simplified": "夜里",
+      "pinyin": "yè li",
+      "english": "during the night, at night, nighttime",
+      "pinyinNumbered": "ye4 li5"
+    },
+    {
+      "traditional": "一部分",
+      "simplified": "一部分",
+      "pinyin": "yī bù fèn",
+      "english": "portion, part of, subset",
+      "pinyinNumbered": "yi1 bu4 fen4"
+    },
+    {
+      "traditional": "一定",
+      "simplified": "一定",
+      "pinyin": "yīdìng",
+      "english": "must",
+      "pinyinNumbered": "yi1ding4"
+    },
+    {
+      "traditional": "一共",
+      "simplified": "一共",
+      "pinyin": "yīgòng",
+      "english": "altogether, in all, all told",
+      "pinyinNumbered": "yi1gong4"
+    },
+    {
+      "traditional": "一會兒",
+      "simplified": "一会儿",
+      "pinyin": "yīhuìr",
+      "english": "a moment, a while, in a moment, now...now..., also pr. [yi1 hui3 r5]",
+      "pinyinNumbered": "yi1hui4r5"
+    },
+    {
+      "traditional": "一路平安",
+      "simplified": "一路平安",
+      "pinyin": "yī lù píng ān",
+      "english": "to have a pleasant journey, Bon voyage!",
+      "pinyinNumbered": "yi1 lu4 ping2 an1"
+    },
+    {
+      "traditional": "一路順風",
+      "simplified": "一路顺风",
+      "pinyin": "yī lù shùn fēng",
+      "english": "to have a pleasant journey (idiom)",
+      "pinyinNumbered": "yi1 lu4 shun4 feng1"
+    },
+    {
+      "traditional": "已經",
+      "simplified": "已经",
+      "pinyin": "yǐjīng",
+      "english": "already",
+      "pinyinNumbered": "yi3jing1"
+    },
+    {
+      "traditional": "以後",
+      "simplified": "以后",
+      "pinyin": "yǐhòu",
+      "english": "afterwards, later, future, in the future, hereafter",
+      "pinyinNumbered": "yi3hou4"
+    },
+    {
+      "traditional": "以前",
+      "simplified": "以前",
+      "pinyin": "yǐqián",
+      "english": "langsyne, ago, in the past, formerly, prevenient, before, previously",
+      "pinyinNumbered": "yi3qian2"
+    },
+    {
+      "traditional": "以上",
+      "simplified": "以上",
+      "pinyin": "yǐshàng",
+      "english": "the above/foregoing/above-mentioned",
+      "pinyinNumbered": "yi3shang4"
+    },
+    {
+      "traditional": "以外",
+      "simplified": "以外",
+      "pinyin": "yǐwài",
+      "english": "other than, except, beyond, outside",
+      "pinyinNumbered": "yi3wai4"
+    },
+    {
+      "traditional": "以為",
+      "simplified": "以为",
+      "pinyin": "yǐwéi",
+      "english": "imagine, think/believe/consider erroneously, treat, deem, believe, suspect, suppose, consider erroneously, repute, animadvert, esteem, trow, speak up, feel, count, believe/consider erroneously, calculate, view as, guess, ween, look, expect, think erroneously, think, hold, opine, interpret, sound off, take for, consider, take for",
+      "pinyinNumbered": "yi3wei2"
+    },
+    {
+      "traditional": "以下",
+      "simplified": "以下",
+      "pinyin": "yǐxià",
+      "english": "the following",
+      "pinyinNumbered": "yi3xia4"
+    },
+    {
+      "traditional": "椅子",
+      "simplified": "椅子",
+      "pinyin": "yǐzi",
+      "english": "chair",
+      "pinyinNumbered": "yi3zi5"
+    },
+    {
+      "traditional": "一般",
+      "simplified": "一般",
+      "pinyin": "yībān",
+      "english": "general, ordinary, common",
+      "pinyinNumbered": "yi1ban1"
+    },
+    {
+      "traditional": "一點點",
+      "simplified": "一点点",
+      "pinyin": "yī diǎn diǎn",
+      "english": "a little bit",
+      "pinyinNumbered": "yi1 dian3 dian3"
+    },
+    {
+      "traditional": "一生",
+      "simplified": "一生",
+      "pinyin": "yīshēng",
+      "english": "lifetime, all, existence, life, throughout one's life, all one's life, career, all/throughout one's life",
+      "pinyinNumbered": "yi1sheng1"
+    },
+    {
+      "traditional": "一直",
+      "simplified": "一直",
+      "pinyin": "yīzhí",
+      "english": "e'er, away, continuously, all the way, right, forever, all along, always, the whole way, all along, straight, slap, through, ever, evermore",
+      "pinyinNumbered": "yi1zhi2"
+    },
+    {
+      "traditional": "億",
+      "simplified": "亿",
+      "pinyin": "yì",
+      "english": "det.: hundred million",
+      "pinyinNumbered": "yi4"
+    },
+    {
+      "traditional": "意見",
+      "simplified": "意见",
+      "pinyin": "yìjiàn",
+      "english": "latitude, point of view, estimation, sight, conceit, verdict, hypothesis, attitude, estimate, possibility, judgement, appraisal, ground, slant, differing opinion, ruling, complaint, thinking, suggestion, comment, advisement, mind, apprehension, say, vote, impression, deliverance, view, understanding, feeling, idea, notion, sentiment, judgment, advice, current, opinion, advert, theory, v",
+      "pinyinNumbered": "yi4jian4"
+    },
+    {
+      "traditional": "意思",
+      "simplified": "意思",
+      "pinyin": "yìsī",
+      "english": "significance, token of infection, intention, interest, idea, trace, meaning, thought, opinion, substance, etc., import, a token of appreciation/etc., indirect request, wish, a token of affection, desire, appreciation, fun, signification, gratitude, sense, hint, a token of affection/appreciation/etc., suggestion, mind, intent",
+      "pinyinNumbered": "yi4si1"
+    },
+    {
+      "traditional": "因為",
+      "simplified": "因为",
+      "pinyin": "yīnwèi",
+      "english": "conj.: because, for, on account of",
+      "pinyinNumbered": "yin1wei4"
+    },
+    {
+      "traditional": "隂",
+      "simplified": "阴",
+      "pinyin": "yīn",
+      "english": "overcast (weather), cloudy, shady, Yin (the negative principle of Yin and Yang), negative (electric.), feminine, moon, implicit, hidden, genitalia, surname Yin, variant of 陰|阴[yin1]",
+      "pinyinNumbered": "yin1"
+    },
+    {
+      "traditional": "陰天",
+      "simplified": "阴天",
+      "pinyin": "yīn tiān",
+      "english": "cloudy day, overcast sky",
+      "pinyinNumbered": "yin1 tian1"
+    },
+    {
+      "traditional": "音節",
+      "simplified": "音节",
+      "pinyin": "yīnjié",
+      "english": "syllable, key, pitch",
+      "pinyinNumbered": "yin1jie2"
+    },
+    {
+      "traditional": "音樂",
+      "simplified": "音乐",
+      "pinyin": "yīnyuè",
+      "english": "music",
+      "pinyinNumbered": "yin1yue4"
+    },
+    {
+      "traditional": "音樂會",
+      "simplified": "音乐会",
+      "pinyin": "yīnyuèhuì",
+      "english": "musicale, philharmonic, concert",
+      "pinyinNumbered": "yin1yue4hui4"
+    },
+    {
+      "traditional": "銀行",
+      "simplified": "银行",
+      "pinyin": "yínháng",
+      "english": "jug, depository financial institution, bank building, banking company, banking concern, bank",
+      "pinyinNumbered": "yin2hang2"
+    },
+    {
+      "traditional": "銀行卡",
+      "simplified": "银行卡",
+      "pinyin": "yín háng kǎ",
+      "english": "bank card, ATM card",
+      "pinyinNumbered": "yin2 hang2 ka3"
+    },
+    {
+      "traditional": "應該",
+      "simplified": "应该",
+      "pinyin": "yīnggāi",
+      "english": "should, ought to",
+      "pinyinNumbered": "ying1gai1"
+    },
+    {
+      "traditional": "英文",
+      "simplified": "英文",
+      "pinyin": "yīngwén",
+      "english": "English, English (language), English language",
+      "pinyinNumbered": "ying1wen2"
+    },
+    {
+      "traditional": "英語",
+      "simplified": "英语",
+      "pinyin": "yīngyǔ",
+      "english": "English, English (language), profit, surplus",
+      "pinyinNumbered": "ying1yu3"
+    },
+    {
+      "traditional": "影片",
+      "simplified": "影片",
+      "pinyin": "yǐngpiàn",
+      "english": "celluloid, movie film, flick, production, film, pic, movie",
+      "pinyinNumbered": "ying3pian4"
+    },
+    {
+      "traditional": "影響",
+      "simplified": "影响",
+      "pinyin": "yǐngxiǎng",
+      "english": "influence",
+      "pinyinNumbered": "ying3xiang3"
+    },
+    {
+      "traditional": "永遠",
+      "simplified": "永远",
+      "pinyin": "yǒngyuǎn",
+      "english": "e'er, always, for good, evermore, ever, forever",
+      "pinyinNumbered": "yong3yuan3"
+    },
+    {
+      "traditional": "油",
+      "simplified": "油",
+      "pinyin": "yóu",
+      "english": "oil, fat, grease",
+      "pinyinNumbered": "you2"
+    },
+    {
+      "traditional": "遊客",
+      "simplified": "游客",
+      "pinyin": "yoú kè",
+      "english": "traveler, tourist, (online gaming) guest player",
+      "pinyinNumbered": "you2 ke4"
+    },
+    {
+      "traditional": "友好",
+      "simplified": "友好",
+      "pinyin": "yoǔ hǎo",
+      "english": "Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang, friendly, amicable, close friend",
+      "pinyinNumbered": "you3 hao3"
+    },
+    {
+      "traditional": "有空兒",
+      "simplified": "有空儿",
+      "pinyin": "yǒu kòngr",
+      "english": "available",
+      "pinyinNumbered": "you3 kong4r5"
+    },
+    {
+      "traditional": "有人",
+      "simplified": "有人",
+      "pinyin": "yoǔ rén",
+      "english": "someone, people, anyone, there is someone there, occupied (as in restroom)",
+      "pinyinNumbered": "you3 ren2"
+    },
+    {
+      "traditional": "有點兒",
+      "simplified": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "english": "slightly, a little, somewhat",
+      "pinyinNumbered": "you3dian3r5"
+    },
+    {
+      "traditional": "有意思",
+      "simplified": "有意思",
+      "pinyin": "yǒuyìsī",
+      "english": "interesting, meaningful, enjoyable",
+      "pinyinNumbered": "you3yi4si1"
+    },
+    {
+      "traditional": "又",
+      "simplified": "又",
+      "pinyin": "yòu",
+      "english": "again, moreover",
+      "pinyinNumbered": "you4"
+    },
+    {
+      "traditional": "魚",
+      "simplified": "鱼",
+      "pinyin": "yū",
+      "english": "paella, variegated carp, gudgeon, bighead, Yu, Surname, Argonaut, salmon, fish, catfish",
+      "pinyinNumbered": "yu1"
+    },
+    {
+      "traditional": "語言",
+      "simplified": "语言",
+      "pinyin": "yǔyán",
+      "english": "linguistic communication, lingual, language, idiom, tongue, oral communication, speech, perspicuity, lingo, contumely, Fortran, parole, natural language, spoken language, linguistic process",
+      "pinyinNumbered": "yu3yan2"
+    },
+    {
+      "traditional": "原來",
+      "simplified": "原来",
+      "pinyin": "yuánlái",
+      "english": "originally, formerly",
+      "pinyinNumbered": "yuan2lai2"
+    },
+    {
+      "traditional": "原因",
+      "simplified": "原因",
+      "pinyin": "yuányīn",
+      "english": "origin, causation, reason, wherefore, causal, breeder, spore, cause, causal agent, whence, causal agency, occasion, root, subject, causality, why, starter",
+      "pinyinNumbered": "yuan2yin1"
+    },
+    {
+      "traditional": "院",
+      "simplified": "院",
+      "pinyin": "yuàn",
+      "english": "public facility, college, courtyard, designation for certain government offices and pub, hospital, clinic, branch of government, university, institutes, compound, abbey, academy, institute, yard, educational institution, faculty",
+      "pinyinNumbered": "yuan4"
+    },
+    {
+      "traditional": "院長",
+      "simplified": "院长",
+      "pinyin": "yuànzhǎng",
+      "english": "director/president (of museum/institute/etc.), head of branch of government",
+      "pinyinNumbered": "yuan4zhang3"
+    },
+    {
+      "traditional": "院子",
+      "simplified": "院子",
+      "pinyin": "yuànzi",
+      "english": "patio, court, courtyard, yard, compound",
+      "pinyinNumbered": "yuan4zi5"
+    },
+    {
+      "traditional": "願意",
+      "simplified": "愿意",
+      "pinyin": "yuànyì",
+      "english": "will, be willing, please, wish, like, care",
+      "pinyinNumbered": "yuan4yi4"
+    },
+    {
+      "traditional": "月份",
+      "simplified": "月份",
+      "pinyin": "yuèfèn",
+      "english": "month",
+      "pinyinNumbered": "yue4fen4"
+    },
+    {
+      "traditional": "月亮",
+      "simplified": "月亮",
+      "pinyin": "yuèliàng",
+      "english": "moonlight, Cynthia, moon, lune, Phoebe, Diana, lunar",
+      "pinyinNumbered": "yue4liang4"
+    },
+    {
+      "traditional": "越",
+      "simplified": "越",
+      "pinyin": "yuè",
+      "english": "~A~B) the more A the more B",
+      "pinyinNumbered": "yue4"
+    },
+    {
+      "traditional": "越來越",
+      "simplified": "越来越",
+      "pinyin": "yuèláiyuè",
+      "english": "more and more, more and more",
+      "pinyinNumbered": "yue4lai2yue4"
+    },
+    {
+      "traditional": "雲",
+      "simplified": "云",
+      "pinyin": "yún",
+      "english": "cloud",
+      "pinyinNumbered": "yun2"
+    },
+    {
+      "traditional": "運動",
+      "simplified": "运动",
+      "pinyin": "yùndòng",
+      "english": "sports, athletics, exercise, movement, campaign",
+      "pinyinNumbered": "yun4dong4"
+    },
+    {
+      "traditional": "喒",
+      "simplified": "咱",
+      "pinyin": "zá, zán",
+      "english": "I or me we (including both the speaker and the person spoken to) variant of 咱[zan2], see 咱[zan2]",
+      "pinyinNumbered": "za2, 5zan2"
+    },
+    {
+      "traditional": "咱們",
+      "simplified": "咱们",
+      "pinyin": "zánmen",
+      "english": "we, you and I",
+      "pinyinNumbered": "zan2men5"
+    },
+    {
+      "traditional": "髒",
+      "simplified": "脏",
+      "pinyin": "zāng",
+      "english": "dirty, squalid, smudge, filthy, smutch, blur, smear",
+      "pinyinNumbered": "zang1"
+    },
+    {
+      "traditional": "早餐",
+      "simplified": "早餐",
+      "pinyin": "zǎocān",
+      "english": "breaker, petit dejeuner, brekker, dejeuner, breakfast, morning tea",
+      "pinyinNumbered": "zao3can1"
+    },
+    {
+      "traditional": "早晨",
+      "simplified": "早晨",
+      "pinyin": "zǎo chén",
+      "english": "early morning, CL:個|个[ge4]",
+      "pinyinNumbered": "zao3 chen2"
+    },
+    {
+      "traditional": "早就",
+      "simplified": "早就",
+      "pinyin": "zǎo jiù",
+      "english": "already at an earlier time",
+      "pinyinNumbered": "zao3 jiu4"
+    },
+    {
+      "traditional": "怎麼辦",
+      "simplified": "怎么办",
+      "pinyin": "zěnmebàn",
+      "english": "what should someone do?",
+      "pinyinNumbered": "zen3me5ban4"
+    },
+    {
+      "traditional": "怎麼樣",
+      "simplified": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "english": "How are things?",
+      "pinyinNumbered": "zen3me5yang4"
+    },
+    {
+      "traditional": "怎樣",
+      "simplified": "怎样",
+      "pinyin": "zěnyàng",
+      "english": "no matter how, in any way, in a certain way, how?, what, how",
+      "pinyinNumbered": "zen3yang4"
+    },
+    {
+      "traditional": "占",
+      "simplified": "占",
+      "pinyin": "zhàn",
+      "english": "constitute, make up, account for",
+      "pinyinNumbered": "zhan4"
+    },
+    {
+      "traditional": "站",
+      "simplified": "站",
+      "pinyin": "zhàn",
+      "english": "to stand",
+      "pinyinNumbered": "zhan4"
+    },
+    {
+      "traditional": "站住",
+      "simplified": "站住",
+      "pinyin": "zhàn zhù",
+      "english": "to stand",
+      "pinyinNumbered": "zhan4 zhu4"
+    },
+    {
+      "traditional": "長大",
+      "simplified": "长大",
+      "pinyin": "zhǎngdà",
+      "english": "vegetate, be brought up, grow up, maturate, grow, grow up, bulk, age, mature",
+      "pinyinNumbered": "zhang3da4"
+    },
+    {
+      "traditional": "找出",
+      "simplified": "找出",
+      "pinyin": "zhǎochū",
+      "english": "rout out, find, unearth, rout up, rout, quest, observe, notice, grub, seek out, dig out, seek out, discover, find out, root out, spy, spot, detect, smoke out",
+      "pinyinNumbered": "zhao3chu1"
+    },
+    {
+      "traditional": "照顧",
+      "simplified": "照顾",
+      "pinyin": "zhàogù",
+      "english": "look after, care for, attend to, patronize (as customer)",
+      "pinyinNumbered": "zhao4gu4"
+    },
+    {
+      "traditional": "照片",
+      "simplified": "照片",
+      "pinyin": "zhàopiàn",
+      "english": "snapshot, shot, likeness, picture, photo, icon, image, caption, exposure, photograph, pic, ikon",
+      "pinyinNumbered": "zhao4pian4"
+    },
+    {
+      "traditional": "照相",
+      "simplified": "照相",
+      "pinyin": "zhào xiàng",
+      "english": "to take a photograph",
+      "pinyinNumbered": "zhao4 xiang4"
+    },
+    {
+      "traditional": "這麼",
+      "simplified": "这么",
+      "pinyin": "zhèmo",
+      "english": "so, such, this way, like this",
+      "pinyinNumbered": "zhe4mo5"
+    },
+    {
+      "traditional": "這時候",
+      "simplified": "这时候",
+      "pinyin": "zhèshíhòu",
+      "english": "At this moment",
+      "pinyinNumbered": "zhe4shi2hou4"
+    },
+    {
+      "traditional": "這樣",
+      "simplified": "这样",
+      "pinyin": "zhèyàng",
+      "english": "so, such, like this, this way",
+      "pinyinNumbered": "zhe4yang4"
+    },
+    {
+      "traditional": "真正",
+      "simplified": "真正",
+      "pinyin": "zhēnzhèng",
+      "english": "true, indeed, certainty",
+      "pinyinNumbered": "zhen1zheng4"
+    },
+    {
+      "traditional": "正常",
+      "simplified": "正常",
+      "pinyin": "zhèngcháng",
+      "english": "normal, regular",
+      "pinyinNumbered": "zheng4chang2"
+    },
+    {
+      "traditional": "正好",
+      "simplified": "正好",
+      "pinyin": "zhènghǎo",
+      "english": "just, exactly",
+      "pinyinNumbered": "zheng4hao3"
+    },
+    {
+      "traditional": "正確",
+      "simplified": "正确",
+      "pinyin": "zhèngquè",
+      "english": "correct, true, exact, proper, right",
+      "pinyinNumbered": "zheng4que4"
+    },
+    {
+      "traditional": "正是",
+      "simplified": "正是",
+      "pinyin": "zhèng shì",
+      "english": "(emphasizes that sth is precisely or exactly as stated), precisely, exactly, even, if, just like, in the same way as",
+      "pinyinNumbered": "zheng4 shi4"
+    },
+    {
+      "traditional": "直接",
+      "simplified": "直接",
+      "pinyin": "zhíjiē",
+      "english": "direct, immediate",
+      "pinyinNumbered": "zhi2jie1"
+    },
+    {
+      "traditional": "只",
+      "simplified": "只",
+      "pinyin": "zhǐ",
+      "english": "only, merely",
+      "pinyinNumbered": "zhi3"
+    },
+    {
+      "traditional": "只能",
+      "simplified": "只能",
+      "pinyin": "zhǐ néng",
+      "english": "can only, obliged to do sth, to have no other choice",
+      "pinyinNumbered": "zhi3 neng2"
+    },
+    {
+      "traditional": "只要",
+      "simplified": "只要",
+      "pinyin": "zhǐyào",
+      "english": "conj.: so long as, provided",
+      "pinyinNumbered": "zhi3yao4"
+    },
+    {
+      "traditional": "紙",
+      "simplified": "纸",
+      "pinyin": "zhǐ",
+      "english": "paper",
+      "pinyinNumbered": "zhi3"
+    },
+    {
+      "traditional": "中餐",
+      "simplified": "中餐",
+      "pinyin": "Zhōng cān",
+      "english": "Chinese meal, Chinese food, CL:份[fen4],頓|顿[dun4]",
+      "pinyinNumbered": "Zhong1 can1"
+    },
+    {
+      "traditional": "中級",
+      "simplified": "中级",
+      "pinyin": "zhōng jí",
+      "english": "middle level (in a hierarchy)",
+      "pinyinNumbered": "zhong1 ji2"
+    },
+    {
+      "traditional": "中年",
+      "simplified": "中年",
+      "pinyin": "zhōngnián",
+      "english": "middle age",
+      "pinyinNumbered": "zhong1nian2"
+    },
+    {
+      "traditional": "中小學",
+      "simplified": "中小学",
+      "pinyin": "zhōngxiǎoxué",
+      "english": "primary and middle school",
+      "pinyinNumbered": "zhong1xiao3xue2"
+    },
+    {
+      "traditional": "中心",
+      "simplified": "中心",
+      "pinyin": "zhōngxīn",
+      "english": "center, heart, hub",
+      "pinyinNumbered": "zhong1xin1"
+    },
+    {
+      "traditional": "中醫",
+      "simplified": "中医",
+      "pinyin": "zhōngyī",
+      "english": "trad. Ch. medicine, doctor of trad. Ch. medicine",
+      "pinyinNumbered": "zhong1yi1"
+    },
+    {
+      "traditional": "重點",
+      "simplified": "重点",
+      "pinyin": "zhòngdiǎn",
+      "english": "taproot, accent, emphasis, focal point, point, keystone, hinge, salient point, stress, gravity",
+      "pinyinNumbered": "zhong4dian3"
+    },
+    {
+      "traditional": "重視",
+      "simplified": "重视",
+      "pinyin": "zhòngshì",
+      "english": "attach importance to, take sth. seriously, value",
+      "pinyinNumbered": "zhong4shi4"
+    },
+    {
+      "traditional": "周",
+      "simplified": "周",
+      "pinyin": "zhōu",
+      "english": "Surname",
+      "pinyinNumbered": "zhou1"
+    },
+    {
+      "traditional": "週末",
+      "simplified": "周末",
+      "pinyin": "zhoū mò",
+      "english": "weekend",
+      "pinyinNumbered": "zhou1 mo4"
+    },
+    {
+      "traditional": "週年",
+      "simplified": "周年",
+      "pinyin": "zhoū nián",
+      "english": "anniversary, annual",
+      "pinyinNumbered": "zhou1 nian2"
+    },
+    {
+      "traditional": "主人",
+      "simplified": "主人",
+      "pinyin": "zhǔrén",
+      "english": "lord, housemaster, host, symposiarch, marse, bwana, padrone, boss, master, baas, provider, mast, owner, landlord",
+      "pinyinNumbered": "zhu3ren2"
+    },
+    {
+      "traditional": "主要",
+      "simplified": "主要",
+      "pinyin": "zhǔyào",
+      "english": "main, chief, principal, major",
+      "pinyinNumbered": "zhu3yao4"
+    },
+    {
+      "traditional": "住房",
+      "simplified": "住房",
+      "pinyin": "zhù fáng",
+      "english": "housing",
+      "pinyinNumbered": "zhu4 fang2"
+    },
+    {
+      "traditional": "住院",
+      "simplified": "住院",
+      "pinyin": "zhùyuàn",
+      "english": "be hospitalized",
+      "pinyinNumbered": "zhu4yuan4"
+    },
+    {
+      "traditional": "裝",
+      "simplified": "装",
+      "pinyin": "zhuāng",
+      "english": "install, fit, assemble, load, pack, hold",
+      "pinyinNumbered": "zhuang1"
+    },
+    {
+      "traditional": "準確",
+      "simplified": "准确",
+      "pinyin": "zhǔnquè",
+      "english": "accurate, exact, precise",
+      "pinyinNumbered": "zhun3que4"
+    },
+    {
+      "traditional": "自己",
+      "simplified": "自己",
+      "pinyin": "zìjǐ",
+      "english": "lonesome, number one, own, ego, self, oneself, name",
+      "pinyinNumbered": "zi4ji3"
+    },
+    {
+      "traditional": "自行車",
+      "simplified": "自行车",
+      "pinyin": "zìxíngchē",
+      "english": "two-wheeler, roadster, machine, bicycle, wheel, push-bike, cycle, motorcycle, bike, velocipede",
+      "pinyinNumbered": "zi4xing2che1"
+    },
+    {
+      "traditional": "自由",
+      "simplified": "自由",
+      "pinyin": "zìyóu",
+      "english": "free, unrestrained",
+      "pinyinNumbered": "zi4you2"
+    },
+    {
+      "traditional": "字典",
+      "simplified": "字典",
+      "pinyin": "zìdiǎn",
+      "english": "lexicon, wordbook, lexical, thesaurus, chararter dictionary, dictionary",
+      "pinyinNumbered": "zi4dian3"
+    },
+    {
+      "traditional": "走過",
+      "simplified": "走过",
+      "pinyin": "zoǔ guò",
+      "english": "to walk past, to pass by",
+      "pinyinNumbered": "zou3 guo4"
+    },
+    {
+      "traditional": "走進",
+      "simplified": "走进",
+      "pinyin": "zǒujìn",
+      "english": "enter, step in, walk in, go in",
+      "pinyinNumbered": "zou3jin4"
+    },
+    {
+      "traditional": "走開",
+      "simplified": "走开",
+      "pinyin": "zoǔ kāi",
+      "english": "to leave, to walk away, to beat it, to move aside",
+      "pinyinNumbered": "zou3 kai1"
+    },
+    {
+      "traditional": "租",
+      "simplified": "租",
+      "pinyin": "zū",
+      "english": "rent out",
+      "pinyinNumbered": "zu1"
+    },
+    {
+      "traditional": "組",
+      "simplified": "组",
+      "pinyin": "zǔ",
+      "english": "m.[general]",
+      "pinyinNumbered": "zu3"
+    },
+    {
+      "traditional": "組成",
+      "simplified": "组成",
+      "pinyin": "zǔchéng",
+      "english": "form, make up (into), compose",
+      "pinyinNumbered": "zu3cheng2"
+    },
+    {
+      "traditional": "組長",
+      "simplified": "组长",
+      "pinyin": "zǔzhǎng",
+      "english": "chief/head of group/section",
+      "pinyinNumbered": "zu3zhang3"
+    },
+    {
+      "traditional": "嘴",
+      "simplified": "嘴",
+      "pinyin": "zuǐ",
+      "english": "spigot, mug, rattletrap, kisser, trap, puss, visage, spile, nib, smiler, beak, countenance, snout, physiognomy, bill, cake-hole, bazoo, spout, anything shaped or functioning like a mouth, mouth, gob, neb",
+      "pinyinNumbered": "zui3"
+    },
+    {
+      "traditional": "最近",
+      "simplified": "最近",
+      "pinyin": "zuì jìn",
+      "english": "recent, recently, these days, latest, soon, nearest (of locations), shortest (of routes)",
+      "pinyinNumbered": "zui4 jin4"
+    },
+    {
+      "traditional": "作家",
+      "simplified": "作家",
+      "pinyin": "zuòjiā",
+      "english": "penster, scribe, ink-slinger, pen, inkslinger, writer, wright, novelist, litterateur, literator, tragedian, composer, author, penman, biobibliography, bookman",
+      "pinyinNumbered": "zuo4jia1"
+    },
+    {
+      "traditional": "作文",
+      "simplified": "作文",
+      "pinyin": "zuòwén",
+      "english": "composition",
+      "pinyinNumbered": "zuo4wen2"
+    },
+    {
+      "traditional": "作業",
+      "simplified": "作业",
+      "pinyin": "zuòyè",
+      "english": "school assignment, work, task, operation, production",
+      "pinyinNumbered": "zuo4ye4"
+    },
+    {
+      "traditional": "作用",
+      "simplified": "作用",
+      "pinyin": "zuòyòng",
+      "english": "action, function, effect, intention, motive",
+      "pinyinNumbered": "zuo4yong4"
+    },
+    {
+      "traditional": "座",
+      "simplified": "座",
+      "pinyin": "zuò",
+      "english": "fare, stand, base, constellation, footstall, pedestal, m.[general], customer, Aquarius, seating, plinth, place, seat",
+      "pinyinNumbered": "zuo4"
+    },
+    {
+      "traditional": "座位",
+      "simplified": "座位",
+      "pinyin": "zuò wèi",
+      "english": "seat, CL:個|个[ge4]",
+      "pinyinNumbered": "zuo4 wei4"
+    },
+    {
+      "traditional": "做到",
+      "simplified": "做到",
+      "pinyin": "zuòdào",
+      "english": "achievement, accomplishment, achieve, accomplish",
+      "pinyinNumbered": "zuo4dao4"
+    },
+    {
+      "traditional": "做法",
+      "simplified": "做法",
+      "pinyin": "zuòfǎ",
+      "english": "way of doing sth., modus operandi, practice, manner, method, making sth., way of making sth., shtick, way, way of doing, way of doing/making sth., personal manner",
+      "pinyinNumbered": "zuo4fa3"
+    },
+    {
+      "traditional": "做飯",
+      "simplified": "做饭",
+      "pinyin": "zuòfàn",
+      "english": "do the cooking, prepare a meal, prepare meal",
+      "pinyinNumbered": "zuo4fan4"
+    }
+  ]
+}
